@@ -1,0 +1,1513 @@
+station_name,station_id,station_lat,station_lng
+"MTV Hubbard St","021320",41.89,-87.68
+"Public Rack - Fullerton Ave & Narragansett Ave","1011",41.92,-87.79
+"Public Rack - Langley Ave & 49th St","1012",41.81,-87.61
+"Public Rack - Pulaski Rd & Lake St","1013",41.885655642,-87.725922823
+"Public Rack - Peterson Ave & Drake Ave","1015",41.99,-87.72
+"Public Rack - Peterson Ave & Bernard Ave","1016",41.990234,-87.715634
+"Public Rack - Foster Ave & Drake Ave","1017",41.98,-87.72
+"Public Rack - Kostner Ave & Wrightwood Ave","1018",41.93,-87.74
+"Public Rack - Kostner Ave & Diversey Ave","1019",41.93,-87.74
+"Public Rack - Hamlin Ave & Madison St","1020",41.880935192,-87.720534325
+"Public Rack - Pulaski Rd & Flournoy St","1021",41.872493148,-87.724954009
+"Public Rack - Ewing Ave & 96th St S","1022",41.7204775,-87.5351995
+"Public Rack - Brainerd Park","1023",41.73,-87.65
+"Public Rack - Fairfield Ave & 63rd St","1027",41.78,-87.69
+"Public Rack - Whipple St & 63rd St","1028",41.778688788,-87.699728847
+"Public Rack - Maplewood Ave & 63rd St","1029",41.78,-87.69
+"Public Rack - Lawndale & 63rd St","1030",41.78,-87.71
+"Public Rack - Komensky Ave & 63rd St","1031",41.78,-87.72
+"Public Rack - Kedvale Ave & 63rd St W","1032",41.78,-87.73
+"Public Rack - Pulaski Rd & 65th St","1033",41.77,-87.72
+"Public Rack - Kenneth Ave & 63rd St E","1034",41.78,-87.73
+"Public Rack - Kedzie Ave & 60th St","1036",41.78515016666667,-87.70317416666667
+"Public Rack - Homan Ave & 62nd Pl","1037",41.78,-87.71
+"Public Rack - Kedzie Ave & 62nd Pl","1038",41.78,-87.7
+"Public Rack - Kedzie Ave & 61st Pl W","1039",41.78,-87.7
+"Public Rack - Talman Ave & Pershing Rd","1040",41.82,-87.69
+"Public Rack - Throop St & 48t ST","1041",41.806977153,-87.657752872
+"Public Rack - Laflin St &51st ST","1042",41.8,-87.66
+"Public Rack - Loomis Blvd & 47th St","1043",41.81,-87.66
+"Public Rack - Hoyne Ave & 51st St","1045",41.801001,-87.676773
+"Public Rack - Maplewood Ave & 47th St","1047",41.81,-87.69
+"Public Rack - Western Ave & 47th Pl","1048",41.81,-87.68
+"Public Rack - Kedzie Ave & 54th Pl","1050",41.794539666666665,-87.703467
+"Public Rack - Rockwell & Division","1052",41.9,-87.69
+"Public Rack - Division St & Christiana Ave","1054",41.9,-87.71
+"Public Rack - Kedzie Ave & Chicago Ave","1055",41.9,-87.71
+"Public Rack - Sawyer Ave & Chicago Ave","1056",41.895525694,-87.708135128
+"Public Rack - Tripp Ave & North Ave","1057",41.91,-87.73
+"Public Rack - Kildare Ave & North Ave","1058",41.91,-87.73
+"Public Rack - Garfield Park Conservatory","1059",41.89,-87.72
+"Public Rack - Homan Ave & Lake St","1060",41.884682298,-87.711486578
+"Public Rack - Central Park Ave & Fulton Blvd","1061",41.89,-87.72
+"Public Rack - Kedzie Ave & Walnut St","1062",41.88585666666667,-87.70639166666666
+"Public Rack - Independence Blvd & Roosevelt","1063",41.87,-87.72
+"Public Rack - Homan Ave & Roosevelt","1065",41.87,-87.71
+"Public Rack - St Louis Ave & Flournoy St","1066",41.87,-87.71
+"Public Rack - Pulaski Rd & Grenshaw St","1067",41.8670279,-87.7254644
+"Public Rack - Kedvale Ave & 26th St","1068",41.844130635,-87.727903008
+"Public Rack - Komensky Ave & 26th St","1069",41.84,-87.73
+"Public Rack - Lawndale Ave & 23rd St","1070",41.85,-87.72
+"Public Rack - Ashland Ave & 74th St","1071",41.759627,-87.66374983333333
+"Public Rack - Washington Park Ct & 51st St","1072",41.8,-87.62
+"Public Rack - Pulaski Rd & 83rd St","1074.0",41.74,-87.72
+"Public Rack - 82nd st & Kedzie Ave","1076.0",41.74333583333333,-87.7023555
+"Public Rack - 83rd Pl & Kedzie Ave N","1077.0",41.74,-87.7
+"Public Rack - 85th Pl & Pulaski Rd","1078.0",41.737378359,-87.721440554
+"Public Rack - Kedzie Ave & 83rd St","1079.0",41.743247,-87.70210583333333
+"Public Rack - Spaulding Ave & 71st St","1080.0",41.76442983333333,-87.7063185
+"Public Rack - Rockwell Ave & 71st St","1081.0",41.76,-87.69
+"Public Rack - 63rd St and Natoma Ave","1082.0",41.777940869,-87.787454724
+"Public Rack - Linder Ave & 64th Pl","1084.0",41.77544868,-87.758030295
+"Public Rack - 63rd Pl & Narraganssett Ave","1085.0",41.776567936,-87.782092452
+"Public Rack - 63rd St and Nagle Ave","1086.0",41.78,-87.78
+"Public Rack - Sayre Ave & 59th St","1087.0",41.78,-87.8
+"Public Rack - Natoma Ave & 61st St","1088.0",41.78,-87.79
+"Public Rack - Normandy Ave & Archer Ave","1089.0",41.79,-87.79
+"Public Rack - Minuteman Park","1090.0",41.79,-87.76
+"Public Rack - Mulligan Ave & 56th St","1091.0",41.79,-87.78
+"Public Rack - 56th St & Mulligan Ave","1092.0",41.790475248999996,-87.779862642
+"Public Rack - 61st St & Melvina Ave","1093.0",41.780847192,-87.776690125
+"Public Rack - Mason Ave & Archer Ave","1094.0",41.794190168,-87.771516204
+"Public Rack - Mobile Ave & Archer Ave","1095.0",41.79,-87.78
+"Public Rack - Austin Ave & Archer Ave","1096.0",41.79,-87.77
+"Public Rack - Meade Ave & Archer Ave","1097.0",41.794090986,-87.774046779
+"Public Rack - Leland Ave & Melvina Ave","1099.0",41.965833545,-87.782221437
+"Public Rack - Melvina Ave & Montrose Ave","1100.0",41.96,-87.78
+"Public Rack - Menard Ave & Leland Ave","1101.0",41.96563673,-87.77236259
+"Public Rack - Central Ave & Pensacola Ave","1102.0",41.960005879,-87.767178059
+"Public Rack - Irving Park Rd & Menard Ave","1103.0",41.953204666666664,-87.772199
+"Public Rack - Irving Park Rd & Austin Ave","1104.0",41.95,-87.78
+"Public Rack - Irving Park Rd & Parkside Ave","1105.0",41.95312716666667,-87.68838
+"Public Rack - Irving Park Rd & Melvina Ave","1106.0",41.952922583,-87.780720592
+"Public Rack - Milwaukee Ave & Warner Ave","1107.0",41.956324816,-87.750895023
+"Public Rack - Cicero Ave & Belle Plaine Ave","1108.0",41.96,-87.75
+"Public Rack - Milwaukee Ave & Sunnyside Ave","1109.0",41.9625222,-87.7560059
+"Public Rack - Milwaukee Ave & Culyer Ave","1110.0",41.95,-87.75
+"Public Rack - Lavergne Ave & Belle Plaine Ave","1111.0",41.955328,-87.75177366666667
+"Public Rack - Milwaukee Ave & Pensacola Ave","1112.0",41.959509,-87.75334816666667
+"Public Rack - Irving Park Rd & Leclaire Ave","1113.0",41.95,-87.75
+"Public Rack - Montrose Ave & Lavergne Ave","1114.0",41.960607,-87.7516346
+"Public Rack - Milwaukee Ave & Leland Ave","1115.0",41.966111,-87.75934716666667
+"Public Rack - Oak Park Ave & Foster Ave","1116.0",41.97,-87.81
+"Public Rack - Nordica Ave & Higgins Ave","1117.0",41.98,-87.8
+"Public Rack - Mont Clare Ave & Higgins Ave","1118.0",41.98060266666667,-87.80504483333333
+"Public Rack - Central Ave & Lawrence Ave","1119.0",41.97,-87.77
+"Public Rack - Milwaukee Ave & Catalpa Ave","1120.0",41.977217674,-87.769011378
+"Public Rack - Milwaukee Ave & Higgins Ave","1121.0",41.97,-87.76
+"Public Rack - Winona St & Elston Ave","1122.0",41.97,-87.75
+"Public Rack - Milwaukee Ave & Lawrence Ave","1123.0",41.97,-87.76
+"Public Rack - Lotus Ave & Lawrence Ave","1124.0",41.97,-87.76
+"Public Rack - Milwaukee Ave & Kennedy Expy","1125.0",41.97,-87.76
+"Public Rack - Laramine Ave & Winnemac Ave","1126.0",41.971887833333334,-87.75748066666667
+"Public Rack - Karlov Ave & Lawrence Ave","1127.0",41.97,-87.73
+"Public Rack - 4810 Keeler Ave","1128.0",41.97,-87.73
+"Public Rack - Elston Ave & Kenneth Ave","1129.0",41.97,-87.74
+"Public Rack - Elston Ave & Gunnison St","1130.0",41.968546271,-87.740617871
+"Public Rack - Springfield Ave & Lawrence Ave","1131.0",41.96839883333333,-87.72561583333334
+"Public Rack - Lawrence Ave & Kimball Ave","1132.0",41.97,-87.71
+"Public Rack - Bernard St & Foster Ave","1133.0",41.975584865,-87.712955952
+"Public Rack - Kimball Ave & Lawrence Ave","1134.0",41.97,-87.71
+"Public Rack - Higgins Ave & Neva Ave","1135.0",41.98,-87.81
+"Public Rack - William J Onahan Public School","1136.0",41.99,-87.79
+"Public Rack - Nina Ave & Avondale Ave","1137.0",41.99,-87.8
+"Public Rack - Normandy Ave & Raven St","1138.0",41.993761666666664,-87.79232
+"Public Rack - Northwest Hwy & Raven St","1139.0",41.992779,-87.7996775
+"Public Rack - Natoma Ave & Bryn Mawr Ave","1140.0",41.98,-87.79
+"Public Rack - Holbrook St & Milwaukee Ave","1141.0",41.99,-87.78
+"Public Rack - Haft Ave & Milwaukee Ave","1142.0",42.0,-87.79
+"Public Rack - Mason Ave & Milwaukee Ave","1143.0",41.9857305,-87.77722466666667
+"Public Rack - Miami Ave & Milwaukee Ave","1144.0",41.99138933333333,-87.78200133333333
+"Public Rack - Peterson Ave & Milwaukee Ave","1145.0",41.99,-87.78
+"Public Rack - Bryn Mawr Ave & Milwaukee Ave","1146.0",41.98,-87.77
+"Public Rack - Kedvale Ave & Peterson Ave","1147.0",41.990193833333336,-87.732306
+"Public Rack - Pulaski Rd & Stevens Ave","1148.0",41.9910862,-87.729231
+"Public Rack - Lemont Ave & Keating Ave","1149.0",41.991366666666664,-87.746917
+"Public Rack - Bryn Mawr Ave & Spaulding Ave","1150.0",41.98295666666667,-87.71155816666666
+"Public Rack - Pratt Ave & Odell Ave","1152.0",42.0044152,-87.8110539
+"Public Rack - Ozanam Ave & Devon Ave","1154.0",42.0,-87.82
+"Public Rack - Olmstead Ave & Oliphant Ave","1155.0",42.0023067,-87.817114353
+"Public Rack - Northwest Hwy & Neva Ave","1157.0",42.0,-87.81
+"Public Rack - Northwest Hwy & Highland Ave","1158.0",41.995949,-87.805159
+"Public Rack - Devon Ave & Minnehaha Ave (east)","1159.0",41.997396,-87.7627925
+"Public Rack - Kinzua Ave & Devon Ave","1161.0",41.9979207,-87.7653719
+"Public Rack - Devon Ave & Kinzua Ave","1164.0",41.99741266666667,-87.7646765
+"Public Rack - Devon Ave & Central Ave","1165.0",42.0,-87.76
+"Public Rack - Minnehaha Ave & Devon Ave","1166.0",42.0,-87.76
+"Public Rack - Leoti Ave & Central Ave (south)","1167.0",42.0,-87.76
+"Public Rack - Hiawatha Ave & Minnehaha Ave","1168.0",41.999595046,-87.760591388
+"Public Rack - Brooks Park","1169.0",42.004671,-87.80682866666666
+"Public Rack - Ottowa Ave & Touhy Ave","1170.0",42.01,-87.82
+"Public Rack - Overhill Ave & Touhy Ave","1171.0",42.011488318,-87.819081783
+"Public Rack - Touhy Ave & Oconto Ave","1172.0",42.011797667,-87.807577372
+"Public Rack - Osceola Ave & Touhy Ave","1174.0",42.01,-87.81
+"Public Rack - Hiawatha & Mendota","1175.0",42.01,-87.78
+"Public Rack - Imlay & Milwaukee","1176.0",41.998982,-87.789556
+"Public Rack - Sayer & Northwest Hwy","1177.0",41.99,-87.8
+"Public Rack - Harlem & Palatine","1178.0",42.0,-87.81
+"Public Rack - Oketo & Northwest Hwy","1179.0",42.0,-87.81
+"Public Rack - N. Oakview and W. Gregory St","1180.0",41.98,-87.84
+"Public Rack - Delphina & Foster","1181.0",41.97,-87.84
+"Public Rack - Cumberland & Catherine","1182.0",41.97716105,-87.836513042
+"Public Rack - Canfield & Victoria","1183.0",41.98,-87.82
+"Public Rack - Ozman & Talcott","1184.0",41.99,-87.82
+"Public Rack - W. Talcott & N. Oriole","1185.0",41.99,-87.82
+"Public Rack - Oketo & Talcott","1186.0",41.988596,-87.812525
+"Public Rack - Odell & Talcott","1187.0",41.987238833333336,-87.81012733333333
+"Public Rack - Harlem & Summerdale","1188.0",41.98,-87.81
+"Public Rack - Neva & Foster","1189.0",41.97482121,-87.805980802
+"Public Rack - Neenah & Dakin","1190.0",41.95,-87.79
+"Public Rack - Central & Berteau","1191.0",41.95689,-87.767329
+"Public Rack - Central & Leland","1192.0",41.97,-87.77
+"Public Rack - Neola & Northwest Hwy","1193.0",41.990291238,-87.795390368
+"Public Rack - Norwood Park","1194.0",41.98657866666667,-87.79387516666667
+"Public Rack - Nashotah & Northwest Hwy","1195.0",41.98811933333333,-87.79132466666667
+"Public Rack - Mulligan & Northwest Hwy","1196.0",41.98552227,-87.786707759
+"Public Rack - Northwest Hwy & Bryn Mawr","1197.0",41.983008,-87.782634
+"Public Rack - Oak Park & Higgins","1198.0",41.98,-87.8
+"Public Rack - Nagel & Higgins","1199.0",41.98,-87.79
+"Public Rack - Melvina & Foster","1200.0",41.98,-87.78
+"Public Rack - Austin & Higgins","1201.0",41.97,-87.78
+"Public Rack - Mango & Higgins","1202.0",41.97,-87.77
+"Public Rack - Lavergne & Lawrence","1203.0",41.967902333333335,-87.752531
+"Public Rack - Leamington & Elston","1204.0",41.9779205,-87.75631483333333
+"Public Rack - Lynch & Elston","1205.0",41.980998166666666,-87.76135033333334
+"Public Rack - Linder & Elston","1206.0",41.98,-87.77
+"Public Rack - Parkside & Elston","1207.0",41.98576166666667,-87.769767
+"Public Rack - Central & Prescott","1208.0",41.992841166666665,-87.76558666666666
+"Public Rack - Leader & Caldwell","1209.0",41.99,-87.75
+"Public Rack - Cicero & Rosemont","1210.0",41.99575766666667,-87.74857516666667
+"Public Rack - Keating & Peterson","1211.0",41.9901375,-87.74719233333333
+"Public Rack - Forest Glen & Peterson","1212.0",41.989843369,-87.742892742
+"Public Rack - Kostner & Peterson","1213.0",41.99,-87.74
+"Public Rack - Pulaski & Rosemont","1214.0",42.0,-87.73
+"Public Rack - Avers & Granville","1215.0",41.993727666666665,-87.7249005
+"Public Rack - St Louis & Lincoln","1216.0",41.995829666666666,-87.71611466666667
+"Public Rack - Christiana & Lincoln","1217.0",41.99,-87.71
+"Public Rack - Central Park & Peterson","1218.0",41.99013516666667,-87.7187125
+"Public Rack - Kimball & Ardmore","1219.0",41.99,-87.71
+"Public Rack - Kostner & Bryn Mawr","1220.0",41.98,-87.74
+"Public Rack - Pulaski & Ardmore","1221.0",41.98560283333333,-87.72843166666667
+"Public Rack - Central Park & Bryn Mawr","1222.0",41.98,-87.72
+"Public Rack - Kenton & Lawrence","1223.0",41.97,-87.74
+"Public Rack - Kilpatrick & Elston","1224.0",41.97,-87.74
+"Public Rack - Kenneth & Carmen","1225.0",41.97282583333333,-87.73925816666667
+"Public Rack - Avers & Lawrence","1226.0",41.9684015,-87.72449916666666
+"Public Rack - Monticello & Lawrence","1227.0",41.97,-87.72
+"Public Rack - S. New England/ W. 65th","1228.0",41.77,-87.79
+"Public Rack - Nordica & Archer","1229.0",41.79,-87.8
+"Public Rack - Newcastle & Archer","1230.0",41.79,-87.79
+"Public Rack - Neenah & Archer","1231.0",41.79,-87.79
+"Public Rack - Rutherford & 53rd","1232.0",41.8,-87.79
+"Public Rack - McVicker & 52nd","1233.0",41.8,-87.77
+"Public Rack - Linder & 51st","1234.0",41.8,-87.76
+"Public Rack - Lockwood & Archer","1235.0",41.8,-87.76
+"Public Rack - Parkside & Archer","1236.0",41.8,-87.76
+"Public Rack - Mason & Archer","1237.0",41.79,-87.77
+"Public Rack - Austin & 62nd","1238.0",41.779664,-87.77139566666666
+"Public Rack - S Menard & W 63rd","1239.0",41.78,-87.77
+"Public Rack - Parkside & 63rd","1240.0",41.78,-87.76
+"Public Rack - Harlem and W. 59th","1241.0",41.784905,-87.80105533333334
+"Public Rack - Cicero & 64th","1242.0",41.78,-87.74
+"Public Rack - Ford City Mall","1243.0",41.757144833333335,-87.74141116666667
+"Public Rack - Western & 74th","1244.0",41.759169666666665,-87.68331633333334
+"Public Rack - Artesian & 71st","1245.0",41.76,-87.68
+"Public Rack - California & 71st","1246.0",41.764715552,-87.693081021
+"Public Rack - Sacramento & 71st","1248.0",41.764396,-87.6977995
+"Public Rack - Kedzie & 73rd","1249.0",41.760724833333335,-87.7024125
+"Public Rack - Kedzie & 71st","1251.0",41.76424849,-87.702960849
+"Public Rack - Troy & 71st","1252.0",41.76,-87.7
+"Public Rack - Hamlin & 72nd","1253.0",41.762566,-87.717515
+"Public Rack - Springfield & 71st","1254.0",41.76,-87.72
+"Public Rack - Pulaski & 74th","1255.0",41.76,-87.72
+"Public Rack - Springfield & 79th","1256.0",41.75,-87.72
+"Public Rack - S. Kilpatrick and W. 79th","1257.0",41.749292833333335,-87.73961083333333
+"Public Rack - Kostner & 83rd","1259.0",41.74,-87.73
+"Public Rack - Pulaski & 84th","1260.0",41.74,-87.72
+"Public Rack - St Louis & 83rd","1261.0",41.74,-87.71
+"Public Rack - St Louis & Columbus","1262.0",41.74526383333333,-87.70919
+"Public Rack - Columbus & 79th","1263.0",41.75,-87.7
+"Public Rack - Homan & 79th","1264.0",41.75,-87.71
+"Public Rack - Homan & 77th","1265.0",41.7534585,-87.70697116666666
+"Public Rack - California & 87th","1266.0",41.74,-87.69
+"Public Rack - California & 82nd","1267.0",41.745283,-87.692588
+"Public Rack - Western & 79th","1269.0",41.750894427,-87.682666898
+"Public Rack - Western & 83rd","1271.0",41.74356183333333,-87.6828015
+"Public Rack - Damen & 81st","1272.0",41.74664247,-87.673146129
+"Public Rack - Horner & 85th","1273.0",41.74,-87.67
+"Public Rack - Damen & 87th","1274.0",41.74,-87.67
+"Public Rack - Norwood Park Station ","1275.0",41.9919,-87.79916
+"Public Rack - Hollywood Park","1276.0",41.98929,-87.71182
+"Public Rack - Peterson Park","1277.0",41.9787105,-87.75551333333334
+"Public Rack - Wentworth Park","1278.0",41.788831333333334,-87.7797115
+"Public Rack - Richard Daley College","1279.0",41.75486,-87.72364
+"Public Rack - Wilbur Wright College South","1280.0",41.95828,-87.78745
+"Public Rack - Wilbur Wright College North","1281.0",41.95904,-87.78966
+"Public Rack - Ashburn Metra ","1283.0",41.7412,-87.71312
+"Public Rack - Forest Glen Station ","1284.0",41.97871,-87.75552
+"Michigan Ave & Washington St","13001",41.8839840647265,-87.6246839761734
+"LaSalle St & Washington St","13006",41.882904649,-87.633131146
+"Millennium Park","13008",41.881034374,-87.624126554
+"Canal St & Adams St","13011",41.879359722,-87.640131474
+"St. Clair St & Erie St","13016",41.894185185,-87.622822881
+"Franklin St & Chicago Ave","13017",41.896864653,-87.635672092
+"Clinton St & Lake St","13021",41.885637,-87.641823
+"Streeter Dr & Grand Ave","13022",41.892255666666664,-87.61224616666667
+"900 W Harrison St","13028",41.874754,-87.649807
+"Field Museum","13029",41.865326047,-87.617960095
+"Milwaukee Ave & Grand Ave","13033",41.891578,-87.648384
+"Michigan Ave & Pearson St","13034",41.897517085,-87.623380065
+"Michigan Ave & Madison St","13036",41.882134,-87.625125
+"Clinton St & Tilden St","13037",41.875879645,-87.640848279
+"Michigan Ave & Oak St","13042",41.90096039,-87.62377664
+"Dearborn St & Erie St","13045",41.893992,-87.629318
+"State St & Kinzie St","13050",41.888600826,-87.627153993
+"Green St & Washington Blvd","13053",41.883267522,-87.648732185
+"Canal St & Monroe St","13056",41.88169,-87.63953
+"Dayton St & North Ave","13058",41.9105780349,-87.6494219288
+"Sheridan Rd & Argyle St","13059",41.97328682025979,-87.65475958585739
+"Ashland Ave & Division St","13061",41.9033255,-87.66787766666667
+"Sheridan Rd & Irving Park Rd","13063",41.954245,-87.654406
+"Western Ave & Winnebago Ave","13068",41.915697455,-87.687015891
+"Southport Ave & Roscoe St","13071",41.943665504,-87.663945675
+"Ashland Ave & Lake St","13073",41.88592,-87.66717
+"Broadway & Wilson Ave","13074",41.965221,-87.658139
+"Wentworth Ave & Cermak Rd","13075",41.85309267,-87.631873727
+"Hermitage Ave & Polk St","13080",41.871514,-87.669886
+"Ogden Ave & Congress Pkwy","13081",41.87501,-87.67328
+"Indiana Ave & 40th St","13083",41.821718216,-87.621391654
+"California Ave & Milwaukee Ave","13084",41.922695,-87.697153
+"Kedzie Ave & Milwaukee Ave","13085",41.929593444,-87.707866311
+"Damen Ave & Cullerton St","13089",41.854966518753926,-87.67569959163664
+"Western Ave & 21st St","13091",41.85406233333333,-87.685887
+"California Ave & 21st St","13096",41.853795793473395,-87.69582286477088
+"Halsted St & 18th St","13099",41.85750568031716,-87.64599144458771
+"Calumet Ave & 18th St","13102",41.85761755293753,-87.61941075325012
+"Broadway & Argyle St","13108",41.973815,-87.65966
+"Broadway & Berwyn Ave","13109",41.978422523,-87.659757376
+"Cannon Dr & Fullerton Ave","13124",41.9267559875,-87.6344287848
+"Clark St & North Ave","13128",41.911974,-87.631942
+"Damen Ave & Chicago Ave","13132",41.895769,-87.67722
+"Damen Ave & Cortland St","13133",41.915983,-87.677335
+"Damen Ave & Madison St","13134",41.88137,-87.67493
+"Blue Island Ave & 18th St","13135",41.857556,-87.661535
+"Damen Ave & Division St","13136",41.903247476,-87.678454518
+"Broadway & Barry Ave","13137",41.93758231600629,-87.6440978050232
+"Canal St & Jackson Blvd","13138",41.877245,-87.639366
+"Throop St & Taylor St","13139",41.868968,-87.659141
+"Damen Ave & Melrose Ave","13143",41.940568328,-87.678697348
+"Seeley Ave & Roscoe St","13144",41.943403,-87.679618
+"Clark St & Armitage Ave","13146",41.918306,-87.636282
+"Michigan Ave & 18th St","13150",41.857813,-87.62455
+"Sheffield Ave & Kingsbury St","13154",41.910649896,-87.653213501
+"Racine Ave & Randolph St","13155",41.884069,-87.656853
+"Aberdeen St & Monroe St","13156",41.880439281,-87.655658841
+"Aberdeen St & Jackson Blvd","13157",41.87795794,-87.654901981
+"Peoria St & Jackson Blvd","13158",41.877627969,-87.649579883
+"May St & Taylor St","13160",41.8694821,-87.6554864
+"Halsted St & 21st St","13162",41.85377981072743,-87.6466029882431
+"Morgan St & 18th St","13163",41.858086,-87.651073
+"Racine Ave & 18th St","13164",41.858212709,-87.656437874
+"Racine Ave & 13th St","13165",41.865054,-87.656959
+"Clark St & Lincoln Ave","13179",41.915689,-87.6346
+"Sedgwick St & Webster Ave","13191",41.922167,-87.638888
+"Halsted St & Dickens Ave","13192",41.919936,-87.64883
+"Larrabee St & Webster Ave","13193",41.921826959,-87.644081354
+"Ogden Ave & Race Ave","13194",41.891795,-87.658751
+"Carpenter St & Huron St","13196",41.894556,-87.653449
+"Elizabeth St & Fulton St","13197",41.886707425,-87.659457207
+"Loomis St & Jackson Blvd","13206",41.877945,-87.662007
+"State St & 29th St","13213",41.841707,-87.626938
+"Rhodes Ave & 32nd St","13215",41.836208,-87.613533
+"State St & 33rd St","13216",41.834734,-87.625813
+"Calumet Ave & 33rd St","13217",41.8349,-87.61793
+"Wood St & Milwaukee Ave","13221",41.907655,-87.672552
+"Ashland Ave & Blackhawk St","13224",41.90706265,-87.66732204
+"Southport Ave & Belmont Ave","13229",41.93947775040509,-87.6637476682663
+"Southport Ave & Waveland Ave","13235",41.948060155,-87.664109826
+"Western Ave & Division St","13241",41.902915835,-87.687518835
+"Milwaukee Ave & Rockwell St","13242",41.92019556200566,-87.69265919923781
+"Milwaukee Ave & Wabansia Ave","13243",41.912616,-87.681391
+"Claremont Ave & Hirsch St","13245",41.907775521,-87.685877085
+"Ashland Ave & Chicago Ave","13247",41.895907044,-87.667842984
+"Ashland Ave & Augusta Blvd","13248",41.899643,-87.6677
+"Ashland Ave & Belle Plaine Ave","13249",41.956057,-87.668835
+"Lincoln Ave & Waveland Ave","13253",41.948797,-87.675278
+"California Ave & Division St","13256",41.903029,-87.697474
+"Campbell Ave & North Ave","13257",41.910495758,-87.68957603
+"California Ave & North Ave","13258",41.9104754,-87.6968944
+"California Ave & Francis Pl (Temp)","13259",41.918583,-87.6974475
+"Columbus Dr & Randolph St","13263",41.884728,-87.619521
+"Kingsbury St & Erie St","13265",41.89380805624359,-87.64169722795485
+"Stave St & Armitage Ave","13266",41.917741,-87.691392
+"Damen Ave & Wellington Ave","13268",41.93590939,-87.678489923
+"Ashland Ave & Wellington Ave","13269",41.936083,-87.669807
+"Damen Ave & Clybourn Ave","13271",41.931903958,-87.677825093
+"Stockton Dr & Wrightwood Ave","13276",41.93132,-87.638742
+"Broadway & Belmont Ave","13277",41.940040231,-87.645454288
+"Broadway & Cornelia Ave","13278",41.945536733,-87.646566272
+"Wood St & Taylor St (Temp)","13285",41.869265218438194,-87.67373085021973
+"Damen Ave & Charleston St","13288",41.920082,-87.677855
+"Eckhart Park","13289",41.89646256,-87.660965681
+"Noble St & Milwaukee Ave","13290",41.90068,-87.6626
+"Kedzie Ave & Palmer Ct","13292",41.921534181,-87.707320333
+"Greenview Ave & Diversey Pkwy","13294",41.93258963429789,-87.66593635082245
+"Ashland Ave & Wrightwood Ave","13296",41.92883,-87.668507
+"DuSable Lake Shore Dr & Monroe St","13300",41.880958,-87.616743
+"Clark St & Chicago Ave","13303",41.89675,-87.63089
+"Racine Ave & 15th St","13304",41.861299038,-87.656369328
+"Laflin St & Cullerton St","13307",41.85491457576575,-87.66355991363525
+"Ashland Ave & Grace St","13319",41.950691462,-87.668628216
+"Broadway & Sheridan Rd","13323",41.952833,-87.649993
+"Broadway & Waveland Ave","13325",41.949081182,-87.648604989
+"Canal St & Harrison St","13326",41.874255,-87.639573
+"May St & Cullerton St","13331",41.855136,-87.654127
+"Loomis St & Lexington St","13332",41.87222873224032,-87.66136385500431
+"Mies van der Rohe Way & Chicago Ave","13338",41.897113442,-87.621755481
+"Canal St & Madison St","13341",41.881912827,-87.640026569
+"Calumet Ave & 35th St","13345",41.831379,-87.618034
+"Ada St & Washington Blvd","13353",41.88283,-87.661206
+"Ashland Ave & 13th St","13354",41.865290403,-87.666464567
+"Clarendon Ave & Gordon Ter","13379",41.957727909,-87.649412751
+"Clarendon Ave & Junior Ter","13389",41.961004,-87.649603
+"Blackstone Ave & Hyde Park Blvd","13398",41.802568078,-87.59034276
+"Sangamon St & Washington Blvd","13409",41.88315475,-87.651081562
+"MLK Jr Dr & Pershing Rd","13420",41.8246,-87.61678
+"Cityfront Plaza Dr & Pioneer Ct","13427",41.890573,-87.622072
+"LaSalle St & Illinois St","13430",41.890762,-87.631697
+"Adler Planetarium","13431",41.866095,-87.607267
+"Wood St & Hubbard St","13432",41.88982749,-87.671584845
+"Ashland Ave & Grand Ave","13434",41.891105294,-87.666751385
+"Ashland Ave & Archer Ave","15442",41.83920868403,-87.6656098589
+"Shields Ave & 28th Pl","15443",41.842733,-87.635491
+"Wentworth Ave & 33rd St","15445",41.834501863,-87.63181901
+"Racine Ave & 35th St","15446",41.83068856472101,-87.65621066093445
+"State St & Pershing Rd","15449",41.82301523798,-87.6265680185
+"Calumet Ave & 51st St","15470",41.80229465088,-87.6180535802
+"63rd St Beach","15491",41.78091096424803,-87.57632374763489
+"Mies van der Rohe Way & Chestnut St","15529",41.898285508,-87.622726321
+"Rush St & Superior St","15530",41.895787358,-87.62615788
+"Field Blvd & South Water St","15534",41.88634906269,-87.6175165471
+"Desplaines St & Randolph St","15535",41.884635806,-87.644474745
+"Desplaines St & Jackson Blvd","15539",41.87811890091227,-87.64394760131836
+"Buckingham Fountain","15541",41.876423,-87.620339
+"Buckingham - Fountain","15541.1.1",41.876665,-87.620483
+"Clinton St & Polk St","15542",41.87146651779,-87.6409491327
+"Shedd Aquarium","15544",41.86728033333333,-87.6153305
+"Burnham Harbor","15545",41.857466,-87.6138015
+"Calumet Ave & 21st St","15546",41.854038954,-87.619137645
+"Canal St & Taylor St","15550",41.870257,-87.639474
+"Broadway & Granville Ave","15571",41.994747833333335,-87.66023816666667
+"Broadway & Thorndale Ave","15575",41.98974251144,-87.6601406209
+"Lakefront Trail & Bryn Mawr Ave","15576",41.98404411519213,-87.65228122472763
+"Broadway & Ridge Ave","15578",41.9840446107,-87.6602738295
+"Budlong Woods Library","15585",41.98366470886,-87.6964225611
+"Halsted St & 69th St","15597",41.76906172032,-87.6446135779
+"Calumet Ave & 71st St","15599",41.76550800581,-87.616917925
+"Christiana Ave & Lawrence Ave","15615",41.968339086,-87.711903572
+"Albany Ave & Montrose Ave","15621",41.961041,-87.705866
+"California Ave & Montrose Ave","15622",41.961068,-87.695439
+"Campbell Ave & Montrose Ave","15623",41.961524,-87.691177
+"Avondale Ave & Irving Park Rd","15624",41.953178167,-87.731947541
+"California Ave & Byron St","15628",41.95216219326,-87.698051113
+"Troy St & Elston Ave","15631",41.945234537,-87.706618905
+"Talman Ave & Addison St","15632",41.946682215,-87.694658279
+"Western Ave & Roscoe St","15634",41.943095,-87.6872435
+"Avers Ave & Belmont Ave","15640",41.939428666666664,-87.72350066666667
+"California Ave & Fletcher St","15642",41.938476205,-87.698097587
+"Kosciuszko Park","15643",41.930585146,-87.723790646
+"Central Park Ave & Elbridge Ave","15644",41.935388088,-87.716851234
+"Richmond St & Diversey Ave","15645",41.93190196886,-87.7011951301
+"California Ave & Altgeld St","15646",41.92667766666667,-87.69778133333334
+"Campbell Ave & Fullerton Ave","15648",41.92463247165,-87.6893070063
+"Spaulding Ave & Armitage Ave","15650",41.917122483,-87.710232496
+"Humboldt Blvd & Armitage Ave","15651",41.91751339399,-87.7018089555
+"Central Park Ave & North Ave","15652",41.90965687563,-87.7166319516
+"Troy St & North Ave","15653",41.909855247,-87.705397367
+"Spaulding Ave & Division St","15654",41.90270659438,-87.709219571
+"Albany Ave & Bloomingdale Ave","15655",41.91402671273,-87.705126462
+"Artesian Ave & Hubbard St","15664",41.8895,-87.688257
+"California Ave & Lake St","15666",41.88445395657,-87.6962981368
+"Western Ave & Monroe St","15667",41.879730582,-87.686082363
+"Western Ave & Congress Pkwy","15668",41.87474885079,-87.6864452757
+"Kedzie Ave & Roosevelt Rd","15682",41.86649278172,-87.7064961757
+"Central Park Ave & Ogden Ave","15685",41.853909254,-87.715104699
+"Kedzie Ave & 21st St","15686",41.85361433,-87.705100417
+"Central Park Ave & 24th St","15687",41.848135471,-87.715053201
+"California Ave & 23rd Pl","15689",41.849128842,-87.69511342
+"Albany Ave & 26th St","15691",41.84447501366,-87.7020130128
+"California Ave & 26th St","15692",41.8436799145765,-87.69496858119965
+"Keystone Ave & Fullerton Ave","16010",41.924505949,-87.727922201
+"Bosworth Ave & Howard St","16806",42.019537,-87.669563
+"Cicero Ave & Lake St","16903",41.886841,-87.745261
+"Central Ave & Lake St","16905",41.887664,-87.765469
+"Austin Blvd & Lake St","16906",41.88794379427211,-87.77427345514297
+"Central Park Blvd & 5th Ave","16907",41.875679,-87.71547
+"Cicero Ave & Flournoy St","16912",41.872131,-87.746619
+"Cicero Ave & Quincy St","16913",41.877613,-87.745405
+"Central Ave & Harrison St","16915",41.872993,-87.764499
+"Central Ave & Madison St","16916",41.880121,-87.763238
+"Austin Blvd & Madison St","16918",41.880281,-87.774453
+"Central Ave & Chicago Ave","16920",41.894958,-87.764902
+"Austin Blvd & Chicago Ave","16921",41.894863725,-87.774595141
+"Ashland Ave & Pershing Rd","16932",41.823465,-87.665577
+"Morgan St & Pershing Rd","16933",41.823613,-87.650931
+"Ashland Ave & McDowell Ave","16937",41.80887,-87.66454
+"Ashland Ave & 50th St","16940",41.803023,-87.664699
+"Ashland Ave & Garfield Blvd","16943",41.792822,-87.664429
+"Ashland Ave & 63rd St","16948",41.779421329,-87.665014029
+"Ashland Ave & 66th St","16950",41.774074,-87.663815
+"Damen Ave & 74th St","16951",41.759274039331224,-87.67363429069519
+"Vincennes Ave & 75th St","16953",41.75797,-87.63121
+"Bennett Ave & 79th St","16970",41.751785,-87.578496
+"Milwaukee Ave & Cuyler Ave","16991",41.954440594,-87.749538302
+"Kilbourn Ave & Milwaukee Ave","16994",41.94707089418471,-87.74000823497772
+"California Ave & Cortez St","17660",41.900392,-87.69667066666666
+"Fairbanks St & Superior St","18003",41.895748,-87.620104
+"Bernard St & Elston Ave","18016",41.949923,-87.713949
+"Central Park Ave & Bloomingdale Ave","18017",41.914166,-87.716755
+"Archer (Damen) Ave & 37th St","18022",41.826712,-87.683144
+"Carpenter St & 63rd St","18025",41.77987,-87.650919
+"Leavitt St & Chicago Ave","18058",41.895501,-87.682017
+"Aberdeen St & Randolph St","18062",41.884160638,-87.654286861
+"Walsh Park","18067",41.91461,-87.667968
+"Cherry Ave & Blackhawk St","18069",41.907221,-87.655618
+"Damen Ave & Wabansia Ave","20.0",41.91,-87.68
+"Old Hastings Monolith","2000.0",41.866,-87.6805
+"Summit Ave & 86th St","20101",41.737848476733404,-87.64489978551863
+"Loomis St & 89th St","20102",41.732396483,-87.658033013
+"Prospect Sq & 91st St","20103",41.7282338,-87.6675239
+"State St & 95th St","20104",41.7218499,-87.6228544
+"Halsted St & 96th St","20105",41.719712183618824,-87.6430195569992
+"Chicago State University","20106",41.718945026,-87.608403444
+"Walden Pkwy & 100th St","20107",41.71216410359803,-87.66773343086243
+"Hale Ave & 107th St","20108",41.699206168127674,-87.66891896724701
+"Vernon Ave & 107th St","20109",41.70012137923888,-87.61225998401642
+"Eberhart Ave & 91st St","20110",41.729285157254864,-87.6110315322876
+"Olive Harvey College","20111",41.709500074,-87.590259194
+"Indiana Ave & 103rd St","20112",41.70717027117756,-87.6184719800949
+"Dauphin Ave & 103rd St","20113",41.7072503677818,-87.60766267776489
+"Doty Ave & 111th St","20114",41.69501044938143,-87.59871482849121
+"Martin Luther King Dr & 111th St","20115",41.69,-87.61
+"Dauphin Ave & 87th St","20116",41.73655902282214,-87.60125756263733
+"Eggleston Ave & 92nd St","20118",41.727575659299575,-87.63482809066771
+"Elizabeth St & 92nd St","20119",41.726798963701185,-87.65429019927979
+"Stewart Ave & 83rd St","20120",41.74371171,-87.634033799
+"Loomis Blvd & 84th St","20121",41.741486528618054,-87.65841007232666
+"Western Ave & 104th St","20123",41.70458710218908,-87.68120348453522
+"Vincennes Ave & 104th St","20124",41.704910994,-87.657019019
+"Halsted St & 104th St","20125",41.70513978893236,-87.6424241065979
+"S Aberdeen St & W 106th St","20126",41.7,-87.65
+"Halsted St & 111th St","20127",41.69226861,-87.642747998
+"S Wentworth Ave & W 111th St","20128",41.69,-87.63
+"Ada St & 113th St","20129",41.687561623357375,-87.65547573566435
+"Wentworth Ave & 104th St","20130",41.705307996998194,-87.62921690940857
+"Cottage Grove Ave & 111th Pl","20131",41.69170975847015,-87.61000156402588
+"Woodlawn & 103rd - Olive Harvey Vaccination Site","20133",41.71,-87.59
+"Maryland Ave & 104th St","20134",41.71,-87.6
+"Kedzie Ave & 104th St","20201",41.7,-87.7
+"W 103rd St & S Avers Ave","20202",41.71,-87.72
+"Lawndale Ave & 111th St","20203",41.69131919221066,-87.71288573741913
+"Kedzie Ave & 110th St","20204",41.69239474587557,-87.70096063613892
+"Western Ave & 111th St","20205",41.691211034981045,-87.68129736185074
+"Homewood Ave & 115th St","20206",41.684604526,-87.67085743
+"Major Taylor Trail & 115th St","20207",41.68493159519296,-87.6452887058258
+"Major Taylor Trail & 124th St","20208",41.668755531,-87.637135625
+"S Michigan Ave & E 118th St","20209",41.68,-87.62
+"State St & 123rd St","20210",41.67064383687979,-87.62258648872375
+"Eberhart Ave & 131st St","20211",41.658413151101065,-87.61071089698817
+"Altgeld Gardens","20212",41.656666,-87.598801
+"Commercial Ave & 130th St","20213",41.659213066,-87.550841451
+"Avenue O & 134th St","20214",41.65186780228521,-87.53967136144637
+"Hegewisch Metra Station","20215",41.64850076266409,-87.54608988761902
+"Torrence Ave & 126th Pl","20217",41.666312,-87.557216
+"Avenue O & 118th St","20218",41.68100145911039,-87.5379312226869
+"Burnham Greenway & 112th St","20219",41.69177385116831,-87.53043115139008
+"Avenue L & 114th St","20220",41.68800233333333,-87.536537
+"Torrence Ave & 106th St","20221",41.702811956,-87.559795141
+"Burnham Greenway & 105th St","20222",41.7045750872071,-87.52823173999786
+"Ewing Ave & Burnham Greenway","20223",41.71274876109496,-87.53481388092041
+"Calumet Park","20224",41.71371,-87.530844
+"Commercial Ave & 100th St","20225",41.71331739547703,-87.55109757184982
+"Oglesby Ave & 100th St","20226",41.713397484422444,-87.56584167480469
+"Bradley Park","20227",41.717878301935,-87.56459176540375
+"Constance Ave & 95th St","20228",41.72229074095262,-87.57896840572357
+"Baltimore Ave & 87th St","20229",41.737335600416664,-87.54851460456847
+"Clyde Ave & 87th St","20230",41.737220645,-87.572716951
+"East End Ave & 87th St","20231",41.73681521440671,-87.58280128240585
+"Big Marsh Park","20232",41.685872333333336,-87.57375516666667
+"Halsted St & 78th St","20233",41.752504945,-87.643634796
+"Ashland Ave & 78th St","20234",41.752203107,-87.663774014
+"Greenwood Ave & 91st St","20235",41.728738666,-87.597257733
+"Stony Island Ave & 90th St","20236",41.731394943302355,-87.58574366569519
+"Yates Blvd & 93rd St","20237",41.726166390245105,-87.5662761926651
+"Greenwood Ave & 97th St","20238",41.71866966666666,-87.5970155
+"Marquette Ave & 89th St","20239",41.73376583333334,-87.55856783333333
+"Indiana Ave & 133rd St","20240",41.65,-87.62
+"Steelworkers Park","20241",41.74,-87.53
+"Houston Ave & 92nd St","20242",41.728225231,-87.549532413
+"Michigan Ave & 114th St","20243",41.68701479467118,-87.62105226516724
+"Halsted St & 73rd St","20244",41.76160543804394,-87.64416097666071
+"Ashland Ave & 74th St","20245",41.759212971,-87.663492084
+"N Green St & W Lake St","20246.0",41.89,-87.65
+"W Washington Blvd & N Peoria St","20247.0",41.88,-87.65
+"Hampden Ct & Diversey Ave","202480.0",41.93,-87.64
+"N Clark St & W Elm St","20249.0",41.9,-87.63
+"N Carpenter St & W Lake St","20251.0",41.89,-87.65
+"W Oakdale Ave & N Broadway","20252.0",41.94,-87.64
+"N Paulina St & Lincoln Ave","20253.0",41.94,-87.67
+"W Armitage Ave & N Sheffield Ave","20254.0",41.92,-87.65
+"N Damen Ave & W Chicago Ave","20255.0",41.9,-87.68
+"N Sheffield Ave & W Wellington Ave","20256.0",41.94,-87.65
+"N Southport Ave & W Newport Ave","20257.0",41.94,-87.66
+"Ping Tom Park (East)","20260.0",41.86,-87.63
+"NewHastings","2059 Hastings Warehouse Station",41.863828174062256,-87.68010646104813
+"Hastings LWS","2059",41.86,-87.68
+"Lockwood Ave & Wrightwood Ave","21312",41.92786183333333,-87.75845683333333
+"Parkside Ave & Armitage Ave","21354",41.916907,-87.767173
+"Lavergne Ave & Fullerton Ave","21356",41.924034,-87.751191
+"Lamon Ave & Armitage Ave","21357",41.91676,-87.749458
+"Kilbourn Ave & Belden Ave","21359",41.922369,-87.739024
+"Kilbourn Ave & Roscoe St","21360",41.942694068,-87.739537597
+"Kenosha Ave & Wellington Ave","21361",41.934457,-87.733795
+"Kilpatrick Ave & Grand Ave","21374",41.912732,-87.743636
+"California Ave & Marquette Rd","21390",41.771611,-87.693331
+"Central Ave & Roscoe St","21396",41.942275,-87.76695
+"Lincoln Ave & Peterson Ave","21462",41.990267,-87.70857
+"State St & Chicago Ave","21544",41.89661720040753,-87.62857854366302
+"Wells St & Institute Pl","22001",41.89737986072316,-87.63442039489746
+"Woodlawn Ave & 58th St","22002",41.789381,-87.596479
+"University Ave & 59th St","22003",41.787878,-87.598906
+"Blackstone Ave & 59th St","22004",41.787877,-87.590461
+"Drexel Ave & 60th St","22005",41.785861,-87.604553
+"Elizabeth St & Randolph St","23001",41.88,-87.66
+"Lincoln Ave & Byron St","23002",41.95,-87.68
+"Halsted St & Fulton St","23003",41.89,-87.65
+"McCormick Blvd & Devon Ave","23101",41.997136,-87.711217
+"California Ave & Granville Ave","23104",41.994028,-87.699302
+"Kenneth Ave & Lawrence Ave","23106",41.967943,-87.739983
+"Karlov Ave & Lawrence Ave","23107",41.967947,-87.730409
+"Monticello Ave & Lawrence Ave","23108",41.968204,-87.719547
+"Keeler Ave & Carmen Ave","23110",41.974323,-87.7331
+"Scottsdale Park","23113",41.741966,-87.736179
+"Kildare Ave & 85th St","23114",41.738463,-87.728572
+"Pulaski Rd & 84th St","23115",41.740407,-87.721907
+"Kedzie Ave & 83rd St","23117",41.742523,-87.702279
+"Damen Ave & 81st St","23120",41.74644283333333,-87.6731
+"Damen Ave & 87th St","23121",41.736044,-87.672861
+"Paulina Ave & 87th St","23122",41.735629,-87.66552
+"Wood St & 84th St","23124",41.741192,-87.668106
+"Springfield Ave & 80th St","23126",41.74763,-87.71945
+"Columbus Ave & 79th St","23128",41.749083042,-87.704251885
+"Mozart St & 79th St","23129",41.74960041,-87.693950534
+"Western Ave & 79th St","23131",41.750843,-87.682701
+"Kedzie Ave & 73rd St","23136",41.760703,-87.702292
+"Springfield Ave & 71st St","23137",41.76448116666667,-87.71999733333334
+"St. Louis & 71st St","23138",41.764354,-87.710121
+"Kedzie Ave & Redfield Dr","23139",41.76523,-87.70316
+"California Ave & 71st St","23140",41.764748,-87.693121
+"Artesian Ave & 71st St","23141",41.764345,-87.684417
+"Artesian Ave & Marquette Rd","23142",41.77203,-87.684637
+"Kedzie Ave & 66th Pl","23143",41.772584,-87.703007
+"Cicero Ave & Roscoe Ave","23165",41.942427,-87.747315
+"Kostner Ave & Belmont Ave","23172",41.939191,-87.737112
+"Karlov Ave & Armitage Ave","23190",41.91748,-87.728952
+"Springfield Ave & North Ave","23191",41.910158,-87.723831
+"Kostner Ave & Wrightwood Ave","23321",41.927957,-87.735952
+"Monticello Ave & Chicago Ave","301",41.9,-87.72
+"Lamon Ave & Chicago Ave","302",41.9,-87.75
+"Public Rack - Kildare Ave & Division St","303",41.9,-87.73
+"Lavergne Ave & Division St","304",41.9,-87.75
+"Menard Ave & Division St","305",41.9,-87.77
+"Leamington Ave & Hirsch St","307",41.91,-87.75
+"Major Ave & Bloomingdale Ave","308",41.91,-87.77
+"Narragansett & McLean","309",41.92,-87.79
+"North Ave & New England Ave","310",41.91,-87.8
+"Lockwood Ave & Wrightwood Ave","312",41.93,-87.76
+"Long Ave & Belden Ave","313",41.92,-87.76
+"Narragansett & Wrightwood","314",41.93,-87.79
+"Lamon Ave & Belmont Ave","316",41.94,-87.75
+"Long Ave & Belmont Ave","317",41.94,-87.76
+"Oak Park & Wellington","318",41.93,-87.8
+"Roscoe & Harlem","319",41.94,-87.81
+"Orange & Addison","320",41.94,-87.82
+"Kostner Ave & Wrightwood Ave","321",41.93,-87.74
+"Cicero Ave & Grace St","322",41.95,-87.75
+"Narragansett & Irving Park","323",41.95,-87.79
+"Meade Ave & Addison St","324",41.95,-87.78
+"Harlem Ave & Grace St","325",41.95,-87.81
+"Harlem & Irving Park","326",41.95,-87.81
+"Plainfield & Irving Park","327",41.95,-87.83
+"Central Park Ave & Douglas Blvd","329.0",41.86,-87.72
+"Keeler Ave & Roosevelt Rd","330.0",41.87,-87.73
+"Halsted St & Clybourn Ave","331",41.909668,-87.648128
+"Pulaski Rd & 21st St","331.0",41.85,-87.72
+"Harding Ave & 26th St","332.0",41.84,-87.72
+"Kildare & Cermak","333.0",41.85,-87.73
+"Lawndale Ave & 30th St","334.0",41.84,-87.72
+"Komensky Ave & 31st St","335.0",41.84,-87.73
+"La Villita Park (Albany/30th)","336",41.84,-87.7
+"Hoyne Ave & 34th St","337",41.83,-87.68
+"California Ave & 36th St","338",41.83,-87.69
+"Sacramento Ave & Pershing Rd","339",41.82,-87.7
+"Pulaski & Ann Lurie Pl","340",41.82,-87.72
+"Archer Ave & 43rd St","341",41.82,-87.7
+"Kedzie Ave & 45th St","342",41.81,-87.7
+"Pulaski Rd & 51st St","343",41.8,-87.72
+"Springfield Ave & 47th St","344",41.81,-87.72
+"Artesian Ave & 55th St","345",41.79,-87.69
+"Kedzie Ave & 57th St","346",41.79,-87.7
+"Komensky Ave & 55th St","347",41.79,-87.72
+"Western Ave & 62nd St","348",41.78,-87.68
+"Spaulding Ave & 63rd St","349",41.78,-87.71
+"Hamlin Ave & 62nd Pl","350",41.78,-87.72
+"Mulligan Ave & Wellington Ave","351",41.93,-87.78
+"Sayre & Diversey","352",41.93,-87.8
+"Meade Ave & Diversey Ave","353",41.93,-87.78
+"Parkside Ave & Armitage Ave","354",41.92,-87.77
+"Central Ave & Parker Ave","355",41.93,-87.77
+"Lavergne & Fullerton","356",41.92,-87.75
+"Lamon Ave & Armitage Ave","357",41.92,-87.75
+"Kilpatrick Ave & Parker Ave","358",41.93,-87.74
+"Kilbourn & Belden","359",41.92,-87.74
+"Kilbourn & Roscoe","360",41.94,-87.74
+"Kenosha & Wellington","361",41.93,-87.73
+"Lawndale Ave & 16th St","362.0",41.86,-87.72
+"Tripp Ave & 15th St","363.0",41.86,-87.73
+"Homan Ave & Fillmore St","364.0",41.87,-87.71
+"Kildare Ave & 26th St","365.0",41.84,-87.73
+"Spaulding Ave & 16th St","366.0",41.86,-87.71
+"Mayfield & Roosevelt Rd","367",41.87,-87.77
+"Tripp Ave & 31st St","368.0",41.84,-87.73
+"Central Park Ave & Ohio St","369",41.89,-87.72
+"Central Park & Augusta Blvd","370",41.9,-87.72
+"Kildare Ave & Chicago Ave","371",41.9,-87.73
+"Hamlin Ave & Grand Ave","372",41.9,-87.72
+"Augusta Blvd & Laramie Ave","373",41.898581166666666,-87.7554905
+"Kilpatrick Ave & Grand Ave","374",41.91,-87.74
+"Long Ave & North Ave","375",41.91,-87.76
+"Menard Ave & North Ave","376",41.91,-87.77
+"Bloomingdale Ave & Harlem Ave","377",41.91,-87.81
+"Nordica & Medill","378",41.92,-87.8
+"Rockwell St & Archer Ave","379",41.82,-87.69
+"Fairfield Ave & 44th St","380",41.81,-87.69
+"Francisco Ave & 47th St","381",41.81,-87.7
+"Kedzie Ave & 48th Pl","382",41.8,-87.7
+"Campbell Ave & 51st St","383",41.8,-87.69
+"Kedzie Ave & 52nd St","384",41.8,-87.7
+"St Louis Ave & Norman Bobbins Ave","385",41.79,-87.71
+"Rockwell St & 57th St","386",41.79,-87.69
+"St Louis Ave & 59th St","387",41.79,-87.71
+"Richmond St & 59th St","388",41.79,-87.7
+"Maplewood Ave & 59th St","389",41.79,-87.69
+"California Ave & Marquette Rd","390",41.77,-87.69
+"Rockwell St & 63rd St","391",41.78,-87.69
+"Homan Ave & 65th St","392",41.78,-87.71
+"Oketo Ave & Addison St","393",41.94,-87.81
+"Panama Ave & Grace St","394",41.95,-87.83
+"Shabbona Park","395",41.94,-87.8
+"Central Ave & Roscoe St","396",41.94,-87.77
+"Narragansett Ave & School St","397",41.94,-87.79
+"Long & Irving Park","398",41.95,-87.76
+"Lavergne Ave & 46th St","399",41.81,-87.75
+"Lawler Ave & 50th St","400",41.8,-87.75
+"Kildare Ave & 47th St","401",41.81,-87.73
+"Kenneth Ave & 50th St","402",41.8,-87.73
+"Kildare Ave & 55th St","403",41.79,-87.73
+"Pulaski Rd & 60th St","404",41.78,-87.72
+"Kostner Ave & 63rd St","406",41.78,-87.73
+"Tripp Ave & 65th St","407",41.77,-87.73
+"410","410",41.9,-87.69
+"Francisco Ave & Chicago Ave","411",41.9,-87.7
+"Sacramento Blvd & Fulton Ave","414",41.89,-87.7
+"Western Ave & Lake St","415",41.88,-87.69
+"Washtenaw Ave & Madison St","416",41.88,-87.69
+"Troy St & Jackson Blvd","417",41.88,-87.7
+"Mozart St & Jackson Blvd","418",41.88,-87.7
+"Sacramento Blvd & Polk St","419",41.87,-87.7
+"Washtenaw Ave & Polk St","420",41.87,-87.69
+"Albany Ave & Douglas Blvd","421",41.86,-87.7
+"Albany Ave & 16th St","422",41.86,-87.7
+"Sacramento Ave & 25th St","424",41.85,-87.7
+"Rockwell St & Cermak Rd","425",41.85,-87.69
+"California & 16th St","426",41.86,-87.7
+"Whipple St & Roosevelt Rd","427",41.87,-87.7
+"Milwaukee Ave & Fullerton Ave","428",41.92,-87.7
+"Francisco Ave & Bloomingdale Ave","429",41.91,-87.7
+"Troy St & Grace St","430",41.95,-87.71
+"Western Ave & Grace St","431",41.95,-87.69
+"Sacramento Blvd & Addison St","432",41.95,-87.7
+"Elston Ave & Henderson St","433",41.94,-87.7
+"Albany Ave & Belmont Ave","434",41.94,-87.71
+"Rockwell St & Fletcher St","435",41.94,-87.69
+"Kedzie Ave & George St","436",41.93,-87.71
+"Western Ave & Berteau Ave","438",41.96,-87.69
+"Campbell Ave & Irving Park Rd","439",41.95,-87.69
+"Virginia Ave & Catalpa Ave","441",41.98,-87.7
+"Lincoln Ave & Balmoral Ave","442",41.98,-87.69
+"California Ave & Winona St","443",41.97,-87.7
+"N Shore Channel Trail & Argyle St","444",41.97,-87.7
+"Western Ave & Gunnison St","445",41.97,-87.69
+"Francisco Ave & Montrose Ave","446",41.96,-87.7
+"Richmond St & Lincoln Ave","452",41.99,-87.7
+"Washtenaw Ave & Peterson Ave","458",41.99,-87.7
+"Francisco Ave & Hollywood Ave","460",41.98,-87.7
+"Lincoln Ave & Peterson Ave","462",41.99,-87.71
+"Western Ave & Ardmore Ave","464",41.99,-87.69
+"Troy Ave & 27th St","465",41.84,-87.7
+"California Ave & 29th St","466",41.84,-87.69
+"Damen Ave & 33rd St","471",41.834103999999996,-87.67523733333333
+"Elston Ave & George St","472",41.93,-87.69
+"Mason Ave & Belmont Ave","473",41.94,-87.77
+"Fullerton & Monitor","474",41.92,-87.77
+"Whipple/Irving Park","475",41.95,-87.7
+"Public Rack - Francisco Ave & Touhy Ave","476",42.011962414,-87.701208115
+"Public Rack - California Ave & Touhy Ave - midblock","477",42.01,-87.7
+"Public Rack - California Ave & Touhy Ave - SW","478",42.01,-87.7
+"Public Rack - California Ave & Touhy Ave - NW","479",42.01,-87.7
+"Public Rack - Rockwell Ave & Touhy Ave ","480",42.01,-87.7
+"Public Rack - Chase Ave & Touhy Ave - NW","481",42.01,-87.69
+"Public Rack - Chase Ave & Touhy Ave - NE","482",42.01,-87.69
+"Public Rack - Western Ave & Jarvis Ave","483",42.02,-87.69
+"Public Rack - Sacramento Ave & Devon Ave","485",42.0,-87.7
+"Public Rack - California Ave & Devon Ave - NW","486",42.0,-87.7
+"Public Rack - California Ave & Devon Ave - NE","487",42.0,-87.7
+"Public Rack - McCormick Blvd & Devon Ave","488",42.0,-87.71
+"Public Rack - Spaulding Ave & Bryn Mawr Ave","489",41.98,-87.71
+"Public Rack - Kimball Ave & Carmen Ave","490",41.97,-87.71
+"Public Rack - Kedzie Ave & Argyle St","491",41.97,-87.71
+"Public Rack - Hamlin Ave & Montrose Ave","492",41.96,-87.72
+"Public Rack - St Louis Ave & Berteau Ave","493",41.96,-87.72
+"Public Rack - Avers Ave & Irving Park Rd","494",41.95,-87.72
+"Public Rack - Keystone Ave & Irving Park Rd","495",41.95,-87.73
+"Public Rack - Kedvale Ave & Avondale Ave","496",41.95,-87.73
+"Public Rack - Lowell Ave & Elston Ave","497",41.97,-87.74
+"Public Rack - Avondale Ave & Addison St","498",41.95,-87.72
+"Public Rack - Christiana Ave & Belmont Ave","499",41.94,-87.71
+"Public Rack - Monticello Ave & Belmont Ave","500",41.94,-87.72
+"Public Rack - Milwaukee Ave & School St","501",41.94,-87.73
+"Public Rack - Milwaukee Ave & Addison St","502",41.95,-87.74
+"Public Rack - Jonathan Y Scammon Public School","503",41.94,-87.73
+"Public Rack - Milwaukee Ave & Diversey Ave","504",41.93,-87.71
+"Public Rack - Milwaukee Ave & Haussen Ct","505",41.94,-87.72
+"Public Rack - Lawndale Ave & Diversey Ave","506",41.93,-87.72
+"Public Rack - Hamlin Ave & Fullerton Ave","507",41.92,-87.72
+"Public Rack - Pulaski Rd & Fullerton Ave","508",41.92,-87.73
+"Public Rack - Mozart Elementary School","509",41.92,-87.72
+"Public Rack - Spaulding Ave & North Ave","510",41.91,-87.71
+"Public Rack - California Ave & Cortez St","512",41.9,-87.7
+"Public Rack - Spaulding Ave & Evergreen Ave","513",41.91,-87.71
+"Ridge Blvd & Howard St","514",42.019276,-87.68452
+"Paulina St & Howard St","515",42.019159,-87.673573
+"Public Rack - Kenton Ave & Palmer St","516",41.92,-87.74
+"Clark St & Jarvis Ave","517",42.015963,-87.675005
+"Conservatory Dr & Lake St","518",41.885502,-87.716866
+"Wolcott Ave & Fargo Ave","519",42.016977,-87.677725
+"Public Rack - Karlov Ave & Kamerling Ave","520",41.91,-87.73
+"Public Rack - Al Raby School","521",41.886167,-87.714711
+"Eastlake Ter & Howard St","523",42.01920250193227,-87.66430288553238
+"Public Rack - Central Park Ave & Fillmore St","524",41.8680617,-87.7153897
+"Glenwood Ave & Touhy Ave","525",42.012701,-87.666058
+"Public Rack - Legler Regional Library","526",41.88,-87.73
+"Western Ave & Howard St","527",42.01899266666667,-87.68999716666667
+"Pulaski Rd & Lake St","528",41.885409,-87.726491
+"Laramie Ave & Kinzie St","530",41.887832,-87.755527
+"Public Rack - Penn Elementary School / KIPP Ascend Middle School","531",41.858683166666665,-87.7223935
+"Public Rack - Central Park Ave & Ogden Ave","532",41.8543385,-87.7151584
+"Public Rack - Avers Ave & Ogden Ave","533",41.85,-87.72
+"Karlov Ave & Madison St","534",41.88085,-87.727907
+"Pulaski Rd & Congress Pkwy","535",41.87441021003816,-87.72609159350395
+"Kostner Ave & Lake St","536",41.885939837,-87.735411167
+"Kenton Ave & Madison St","537",41.880716443,-87.74101913
+"Public Rack - Karlov Ave & 26th St","538",41.84,-87.73
+"Public Rack - Eli Whitney Public School","539",41.84,-87.73
+"Laramie Ave & Madison St","540",41.880207,-87.755337
+"Public Rack - Laramie Ave & Warwick Ave","541",41.95,-87.76
+"Public Rack - Chopin Park","542",41.94,-87.76
+"Public Rack - Cicero Ave & Roscoe St","543",41.94,-87.75
+"Public Rack - Laramie Ave & Belmont Ave","544",41.94,-87.76
+"Kostner Ave & Adams St","545",41.877917,-87.735737
+"Damen Ave & Pershing Rd","546",41.823202968,-87.676594257
+"Public Rack - Cicero Ave & Wrightwood Ave","547",41.93,-87.75
+"Public Rack - Cicero Ave & Altgeld St","548",41.93,-87.75
+"Public Rack - Laramie Ave & Fullerton Ave","549",41.92,-87.76
+"Public Rack - Laramie Ave & Grand Ave","550",41.92,-87.76
+"Public Rack - Cicero Ave & North Ave","551",41.91,-87.75
+"Public Rack - Cicero Ave & Cortland St - midblock","552",41.92,-87.75
+"Elizabeth St & 47th St","553",41.80839,-87.656526
+"Damen Ave & 51st St","554",41.800908,-87.674684
+"Throop St & 52nd St","556",41.799659,-87.657195
+"Seeley Ave & Garfield Blvd","557",41.794087,-87.675478
+"Public Rack - Michele Clark Magnet High School","558",41.87,-87.75
+"Racine Ave & Garfield Blvd","559",41.794226408,-87.655115128
+"Marshfield Ave & 59th St","560",41.786833,-87.666215
+"Public Rack - Melvina Ave & Belmont Ave","561",41.94,-87.78
+"Racine Ave & 61st St","562",41.783189,-87.654372
+"Public Rack - Central Ave & George St","563",41.93,-87.77
+"Public Rack - Austin Ave & Wellington Ave","564",41.94,-87.78
+"Public Rack - Austin Ave & Wrightwood Ave","565",41.93,-87.78
+"Public Rack - Narragansett Ave & Fullerton Ave","566",41.92,-87.78
+"May St & 69th St","567",41.768938,-87.652934
+"Public Rack - Central Ave & North Ave","568",41.91,-87.77
+"Woodlawn Ave & 75th St","569",41.75916,-87.595751
+"Evans Ave & 75th St","570",41.758488166666666,-87.60645533333333
+"Vernon Ave & 75th St","571",41.758361,-87.614138
+"State St & 76th St","572",41.756971,-87.624621
+"State St & 79th St","573",41.750794,-87.624424
+"Vernon Ave & 79th St","574",41.75094,-87.61379
+"Cottage Grove Ave & 78th St","575",41.753174,-87.605026
+"Greenwood Ave & 79th St","576",41.751294,-87.597552
+"Stony Island Ave & South Chicago Ave","577",41.751173,-87.585337
+"Phillips Ave & 79th St","579",41.75182,-87.565211
+"Exchange Ave & 79th St","580",41.751731,-87.552812
+"Public Rack - Baltimore Ave & 133rd St","581",41.65,-87.55
+"Phillips Ave & 83rd St","582",41.744531,-87.56506
+"Stony Island Ave & 82nd St","583",41.746559,-87.586005
+"Ellis Ave & 83rd St","584",41.744107008,-87.599086761
+"Cottage Grove Ave & 83rd St","585",41.743441,-87.604836
+"MLK Jr Dr & 83rd St","586",41.743116,-87.6148
+"Wabash Ave & 83rd St","587",41.743359762253235,-87.62284398078917
+"South Chicago Ave & 83rd St","588",41.743921,-87.575225
+"Public Rack - Lafayette Ave & 119th St","589",41.677976,-87.62351216666667
+"Kilbourn Ave & Irving Park Rd","590",41.953733,-87.740569
+"Knox Ave & Montrose Ave","592",41.960671544,-87.74539566
+"Halsted St & 59th St","593",41.787621856,-87.644893169
+"Western Blvd & 48th Pl","594",41.805647016,-87.683360934
+"Wabash Ave & 87th St","595",41.73655301831962,-87.62264415621758
+"Benson Ave & Church St","596",42.048194289,-87.68349874
+"Elmwood Ave & Austin St","598",42.025811076,-87.684166431
+"Valli Produce - Evanston Plaza","599",42.039742,-87.699413
+"OH - BONFIRE - TESTING","6.21.23 OLD HASTINGS",41.863324,-87.679788
+"Dodge Ave & Church St","600",42.048308,-87.698224
+"Public Rack - Percy Julian HS","602",41.71,-87.65
+"Sheridan Rd & Noyes St (NU)","604",42.058195,-87.6775345
+"University Library (NU)","605",42.052939,-87.673447
+"Public Rack - Perry Ave & 108th Pl","606",41.7,-87.63
+"Public Rack - Michigan Ave & 110th St","607",41.694224166666665,-87.62076566666667
+"Public Rack - Langley Ave & 105th Pl","610",41.7,-87.61
+"Public Rack - Mackinaw Ave & 108th St","611",41.699008,-87.542833
+"Public Rack - Ewing Ave & 106th St NW","612",41.7,-87.54
+"Public Rack - Ewing Ave & 105th St","613",41.7,-87.54
+"Public Rack - Mackinaw Ave & 106th St","614",41.7022415,-87.54262066666666
+"Public Rack - Avenue J & 106th St","615",41.70261,-87.533531
+"Public Rack - Vincennes Ave & 99th St","616",41.71,-87.65
+"Public Rack - Morgan St & 95th St","617",41.72,-87.65
+"Public Rack - Vincennes Ave & 95th Pl","618",41.720562,-87.650971
+"Public Rack - Vincennes Ave & 95th St","619",41.721277356,-87.650903106
+"Orleans St & Chestnut St (NEXT Apts)","620",41.898305655,-87.637393475
+"Public Rack - Lafayette Ave & 95th St","621",41.72,-87.63
+"Public Rack - Princeton Ave & 99th Pl","622",41.713311,-87.631095
+"Michigan Ave & 8th St","623",41.872773,-87.623981
+"Dearborn St & Van Buren St","624",41.876268,-87.629155
+"Public Rack - Halsted St & 95th St - SW","626",41.72,-87.64
+"Public Rack - Halsted St & 95th St - SE","627",41.72,-87.64
+"Public Rack - Abbott Park","628",41.72159083333333,-87.62269983333333
+"Public Rack - Michigan Ave & 96th St","629",41.72,-87.62
+"Public Rack - Michigan Ave & 102nd St","630",41.71,-87.62
+"Malcolm X College","631",41.877618,-87.673895
+"Clark St & Newport St","632",41.94454,-87.654678
+"Public Rack - Oglesby Ave & 95th St","634",41.72,-87.57
+"Public Rack - Avenue J & 102nd St","635",41.71,-87.53
+"Orleans St & Hubbard St","636",41.889983892000004,-87.636671066
+"Wood St & Chicago Ave","637",41.895634,-87.672069
+"Clinton St & Jackson Blvd","638",41.878316611830684,-87.64098107814789
+"Public Rack - Ewing Ave & 99th St","639",41.72,-87.54
+"Public Rack - Morgan St & 87th St","640",41.74,-87.65
+"Public Rack - Loomis St & 87th St","641",41.74,-87.66
+"Latrobe Ave & Chicago Ave","642",41.894772291,-87.756887674
+"Smith Park","643",41.892048,-87.689397
+"Western Ave & Fillmore St","644",41.868625522,-87.686241627
+"Public Rack - Tuley (Murray) Park","645",41.730182886,-87.611584306
+"State St & 54th St","646",41.796642,-87.625923
+"Elizabeth St & 59th St","647",41.789916992,-87.654706597
+"Public Rack - Cottage Grove Ave & 91st St","648",41.729459763,-87.603807211
+"Stewart Ave & 63rd St","649",41.779835,-87.634774
+"Eggleston Ave & 69th St","650",41.768898,-87.635876
+"Michigan Ave & 71st St","651",41.765286,-87.621748
+"Rhodes Ave & 71st St","652",41.766,-87.611726
+"Public Rack - Loomis Blvd & 83rd St","653",41.74,-87.66
+"Stony Island Ave & 63rd St","653B",41.78,-87.59
+"Racine Ave & Washington Blvd","654",41.883073,-87.656952
+"Hoyne Ave & Balmoral Ave","655",41.979869246,-87.681931615
+"Public Rack - West Chatham Park","656",41.75,-87.63
+"Wood St & Augusta Blvd","657",41.899181,-87.6722
+"Leavitt St & Division St","658",41.902997,-87.683825
+"Public Rack - Rhodes Ave & 79th St","659",41.751058,-87.611439
+"Sheridan Rd & Columbia Ave","660",42.004437804,-87.661563754
+"Evanston Civic Center","661",42.057044,-87.686554
+"Dodge Ave & Mulford St","662",42.023463,-87.699595
+"Public Rack - Cottage Grove & 85th St","663",41.74,-87.6
+"Public Rack - Cottage Grove & 84th St","664",41.741957,-87.604839
+"South Chicago Ave & Elliot Ave","665",41.747363,-87.580046
+"Public Rack - Jeffery Blvd & 83rd St","667",41.744345,-87.575043
+"Public Rack - Champlain Ave & 134th St","670",41.657379,-87.606444
+"Public Rack - Rockwell & 111th St","677",41.69,-87.69
+"Public Rack - Albany Ave & 111th St - NW","678",41.69,-87.7
+"Public Rack - Western Ave & 111th St - SW","679",41.69,-87.68
+"Public Rack - Western Ave & 111th St - NW","681",41.691674666666664,-87.68183066666667
+"Public Rack - 111th St - Morgan Park Metra","682",41.69,-87.67
+"Public Rack - Kedzie & 103rd St - East","685",41.71,-87.7
+"Public Rack - Kedzie & 103rd St - W","686",41.71,-87.7
+"Public Rack - Mt Greenwood Library - South","687",41.69,-87.7
+"Public Rack - Western Ave & 104th St - West","688",41.7,-87.68
+"Public Rack - Western Ave & 106th St - East","690",41.7,-87.68
+"Public Rack - Western Ave & 105th St","691",41.702721715,-87.681700587
+"Public Rack - Western Ave & 104th St - East","692",41.7,-87.68
+"Public Rack - Walden Pkwy & 103rd St","693",41.71,-87.67
+"Public Rack - Wood St & 103rd St","694",41.71,-87.67
+"Public Rack - Western Ave & 100th St","695",41.71,-87.68
+"Public Rack - Hamilton Ave & 95th St","696",41.72,-87.68
+"Public Rack - Longwood Dr & 95th St","697",41.720921,-87.669585
+"Public Rack - Bell Ave & 95th St","698",41.72,-87.68
+"Public Rack - Cottage Grove Ave & 98th St","699",41.72,-87.6
+"Public Rack - Western Ave & 92nd Pl","702",41.73,-87.68
+"Public Rack - Marshfield Ave & 87th St","703",41.74,-87.66
+"Public Rack - Honore St & 87th St - SE","704",41.73551929,-87.669062734
+"Public Rack - Honore St & 87th St","705",41.736093,-87.669404
+"Public Rack - Winchester Ave & 87th St","706",41.74,-87.67
+"Public Rack - Lowe Ave & 94th St","708",41.724411845,-87.639570117
+"Public Rack - Lafayette Ave & 87th St - NW","710",41.74,-87.63
+"Public Rack - Lafayette Ave & 87th St SW","711",41.736223,-87.626737
+"Public Rack - Hermitage & 83rd St","712",41.74,-87.67
+"Public Rack - Damen Ave & 84th St","713",41.7402605,-87.6729595
+"Public Rack - Western Ave & 79th St","714",41.75,-87.68
+"Public Rack - Damen Ave & 80th St","715",41.75,-87.67
+"Public Rack - Oakley & 79th Pl","716",41.74927,-87.67935033333333
+"Public Rack - Mackinaw Ave & 85th St","717",41.741897,-87.543162
+"Public Rack - Claremont Ave & 71st St","718",41.76,-87.68
+"Public Rack - Ashland Ave & 76th St","719",41.76,-87.66
+"Public Rack - Racine Ave & 76th","720",41.76,-87.65
+"Public Rack - Ashland Ave & 73rd St","721",41.76,-87.66
+"Public Rack - Racine Ave & 74th St","722",41.75937733333333,-87.654048
+"Public Rack - May St & 78th St","723",41.752451,-87.652969
+"Public Rack - Halsted St & 76th St","724",41.76,-87.64
+"Public Rack - Hamilton Park","725",41.76335,-87.637499
+"Public Rack - Cottage Grove Ave & 75th St","730",41.76,-87.61
+"Public Rack - Paul Revere Elementary School","731",41.76448966666667,-87.60045816666667
+"Public Rack - James Madison School","732",41.76,-87.59
+"Public Rack - East End Ave & 75th St","733",41.75893,-87.582861
+"Public Rack - South Shore High School","734",41.7561805,-87.579701
+"Public Rack - Stony Is Ave & 73rd St","735",41.762265,-87.585469
+"Public Rack - Jeffrey Blvd & 71st St","736",41.77,-87.58
+"Public Rack - Chappel Ave & 71st St","737",41.766331196,-87.575563431
+"Public Rack - 63rd & Western Ave S","738",41.78,-87.68
+"Public Rack - 63rd & Western Ave N","739",41.78,-87.68
+"Public Rack - The Montessori School of Englewood","741",41.77,-87.67
+"Public Rack - Ashland Ave & 71st St","742",41.77,-87.66
+"Public Rack - May St & 63rd St","743",41.77977,-87.652943
+"Public Rack - Halsted St & 64th St","744",41.777436,-87.644535
+"Public Rack - Halsted St & 63rd St","745",41.779751,-87.64121316666666
+"Public Rack - Martin Luther King Dr & 69th St","746",41.769234,-87.615206
+"Public Rack - Evans Ave & 63rd St","749",41.78,-87.61
+"Public Rack - Harper Ave & 63rd St","750",41.78,-87.59
+"Public Rack - Kimbark Ave & 67th St","751",41.77,-87.59
+"Public Rack - Kimbark Ave & 63rd St","752",41.78,-87.59
+"Public Rack - Jeffery Blvd & 67th St","753",41.77,-87.58
+"Public Rack - Kedzie Ave & 64th St - SE","755",41.78,-87.7
+"Public Rack - Albany Ave & 63rd St","756",41.78,-87.7
+"Public Rack - Kedzie Ave & 63rd St","757",41.78,-87.7
+"Public Rack - Washtenaw Ave & 63rd St","758",41.77924,-87.691116
+"Public Rack - Springfield Ave & 63rd St","759",41.778643833333334,-87.71936466666666
+"Public Rack - Kedzie Ave & 64th St - SW","760",41.78,-87.7
+"Public Rack - Kenneth Ave & 63rd St W","762",41.78,-87.73
+"Public Rack - Kildare Ave & 63rd St","763",41.778477907,-87.730544329
+"Public Rack - Harold Washington Park","766",41.8,-87.58
+"Public Rack - Hyde Park Blvd & 53rd St","767",41.8,-87.58
+"Public Rack - Hyde Park Blvd & 55th St","768",41.8,-87.58
+"Public Rack - Peoria St & 60th St","769",41.79,-87.65
+"Public Rack - Throop St & 58th St","770",41.79,-87.66
+"Public Rack - Kedzie Ave & 61st Pl E","772",41.78,-87.7
+"Public Rack - Senka ""Edward Duke"" Park","773",41.79,-87.71
+"Public Rack - Christiana Ave & 55th St","774",41.79,-87.71
+"Public Rack - Kedzie Ave & 58th St","775",41.79,-87.7
+"Public Rack - Komensky Ave & 59th St","776",41.79,-87.72
+"Public Rack - Midway Orange Line","777",41.79,-87.74
+"Public Rack - Keeler Ave & 55th St","779",41.79,-87.73
+"Public Rack - Lamon Ave & Archer Ave","780",41.79829816666667,-87.74488433333333
+"Public Rack - Linder Ave & Archer Ave","782",41.7960115,-87.75963816666666
+"Public Rack - California Ave & Pershing Rd","783",41.82,-87.69
+"Public Rack - Brighton Park Branch Chicago Library","784",41.82,-87.7
+"Public Rack - Princeton Ave & 43rd St","785",41.82,-87.63
+"Public Rack - Emerald Ave & 45th St","786",41.81,-87.64
+"Public Rack - Lake Park Ave & 44th St","787",41.814572166666665,-87.59776766666667
+"Public Rack - Greenwood Ave & Lake Park Ave","788",41.82,-87.6
+"Public Rack - Central Ave & Adams St","790",41.878264,-87.764886
+"Public Rack - Mason Ave & Roosevelt Rd","791",41.865608,-87.772389
+"Public Rack - Central Ave & Corcoran Pl","793",41.89,-87.77
+"Public Rack - Austin Branch Chicago Public Library","794",41.89,-87.77
+"Public Rack - Menard Ave & Madison St","795",41.88,-87.77
+"Public Rack - Menard Ave & Agusta Blvd","798",41.9,-87.77
+"Public Rack - Newcastle Ave & Belden Ave","799",41.92,-87.8
+"Public Rack - Harriet E Sayre Public School","800",41.913430214,-87.798716187
+"Public Rack - N Narragansett Ave & Grand Ave","801",41.92,-87.78
+"Public Rack - Newland Ave & Diversey Ave","803",41.93,-87.8
+"Public Rack - Newcastle Ave & Wellington Ave","804",41.934997,-87.795777
+"Public Rack - Neva Ave & Grand Ave","805",41.92,-87.8
+"Public Rack - New England Ave & Grace St","807",41.95,-87.8
+"Public Rack - Rutherford Ave & Belmont Ave","808",41.94,-87.79
+"Public Rack - Newcastle Ave & Belmont Ave","809",41.94,-87.8
+"Public Rack - Nagle Ave & Belmont Ave","810",41.94,-87.79
+"Public Rack - Nordica Ave & Addison St","811",41.95,-87.8
+"Public Rack - Lake Park Ave & 47th St","812",41.81,-87.59
+"Public Rack - Calumet Ave & 51st St","813",41.8,-87.62
+"Public Rack - Prairie Ave & 47th St ","814",41.81,-87.62
+"Public Rack - Forrestville Ave & 47th St","815",41.81,-87.61
+"Public Rack - State St & 47th st","816",41.80916166666667,-87.627075
+"Public Rack - Lowe Park","817",41.799402833,-87.641578555
+"Public Rack - Robert Fulton Elementary School","819",41.8,-87.67
+"Public Rack - Western Blvd & 53rd St","820",41.797007442,-87.683412433
+"Public Rack - Western Blvd & 49th St","821",41.8,-87.68
+"Public Rack - Talman Ave & 51st St","822",41.8,-87.69
+"Public Rack - Kedzie Ave & 54th St - SE","823",41.79,-87.7
+"Public Rack - Avers Ave & Archer Ave","824",41.8,-87.72
+"Public Rack - Kedzie Ave & 54th St - SW","825",41.8,-87.7
+"Public Rack - Harding Ave & 47th St","826",41.81,-87.72
+"Public Rack - Strohacker Park","827",41.79,-87.73
+"Public Rack - Archer Park","828",41.8,-87.74
+"Public Rack - Pulaski Rd & 51st Rd","829",41.8,-87.72
+"Public Rack - Pulaski & 52nd","830",41.8,-87.72
+"Public Rack - Kolin Ave & Archer Ave","831",41.8,-87.73
+"Public Rack - Christiana Ave & Archer Ave","832",41.81,-87.71
+"Public Rack - Pulaski Rd & 44th St","833",41.81,-87.72
+"Public Rack - Pulaski Rd & 41st","835",41.82,-87.72
+"Public Rack - Kedzie Ave & Archer Ave","836",41.81,-87.7
+"Public Rack - Piotrowski Park","838",41.84,-87.73
+"Public Rack - Kedzie Ave & Pershing Rd","839",41.822897,-87.704154
+"Public Rack - Marshfield Ave & 45th St","840",41.81,-87.67
+"Public Rack - Damen Ave & 47th St","841",41.81,-87.68
+"Public Rack - Ashland Ave & 46th St","842",41.810494542,-87.66526258
+"Public Rack - Bishop St & 46th St","844",41.81,-87.66
+"Public Rack - Buffalo Ave & 89th St","846",41.73,-87.54
+"Public Rack - Brandon Ave & 91st St","847",41.73,-87.55
+"Public Rack - Oglesby Ave & 105th St","849",41.704672,-87.565519
+"Public Rack - Kostner Ave & Lake St","851",41.89,-87.74
+"Public Rack - Kildare Ave & Washignton Blvd","852",41.88,-87.73
+"Public Rack - Keeler Ave & Madison St S","853",41.88,-87.73
+"Public Rack - Sacramento Blvd & Washington Blvd","854",41.88295683333333,-87.69993433333333
+"Public Rack - Washtenaw Ave & Superior St","855",41.89,-87.69
+"Public Rack - Sawyer Ave & Bryn Mawr Ave - SW","856",41.98,-87.71
+"Public Rack - Sawyer Ave & Bryn Mawr Ave - SE","857",41.98,-87.71
+"Public Rack - Christiana Ave & Bryn Mawr Ave","858",41.98,-87.71
+"Public Rack - Spaulding Ave & Foster Ave","859",41.98,-87.71
+"Public Rack - Christiana Ave & Lawrence Ave","860",41.97,-87.71
+"Public Rack - Sawyer Ave & Lawrence Ave","861",41.97,-87.71
+"Public Rack - Milwaukee Ave & Waveland Ave","862",41.95,-87.74
+"Public Rack - Karlov Ave & Milwaukee Ave","863",41.94,-87.73
+"Public Rack - Kedvale Ave & Addison St","864",41.946846366,-87.730687857
+"Public Rack - Kilbourn Ave & Fullerton Ave","865",41.92,-87.74
+"Public Rack - Kostner Ave & Armitage Ave","866",41.92,-87.74
+"Public Rack - Grand Ave & North Ave","867",41.91,-87.73
+"Public Rack - Kildare Ave & Division Ave","868",41.902405,-87.732699
+"Public Rack - Homan Ave & 26th St","869",41.84,-87.71
+"Public Rack - Ellis Ave & 132nd Pl","871",41.66,-87.6
+"Public Rack - Harvard Ave & 119th St","873",41.68,-87.63
+"Public Rack - Elizabeth St & 115th St","874",41.684885502,-87.652765155
+"Public Rack - Halsted St & 111th St","875",41.69,-87.64
+"Public Rack - Throop St & 109th Pl","876",41.69,-87.65
+"Public Rack - Racine Ave & 109th Pl","877",41.69,-87.65
+"Public Rack - Green St & 103rd St","878",41.71,-87.64
+"Public Rack - East End Ave & 87th St","883",41.74,-87.58
+"Public Rack - Halsted St & 80th St","887",41.75,-87.64
+"Public Rack - Aida Food Market","888",41.749806523,-87.64415729
+"Public Rack - Colfax Ave & 83rd St","890",41.744619166666666,-87.56102616666666
+"Public Rack - Marquette Ave & 83rd St","891",41.74476,-87.558624
+"Public Rack - Christiana Ave & 111th St","895",41.69,-87.71
+"Public Rack - Troy & 111th St","896",41.691497207,-87.700356364
+"Public Rack - Western Ave & 111th St - SE","898",41.69,-87.68
+"Public Rack - Longwood Dr & 111th St","899",41.69,-87.67
+"Public Rack - Western Ave & 118th St","900",41.68,-87.68
+"Public Rack - Hale Ave & 111th St","901",41.69,-87.67
+"Public Rack - Hoyne Ave & 110th Pl","902",41.69,-87.67
+"Public Rack - Western Ave & 106th St - West","903",41.7,-87.68
+"Public Rack - Walden Pkwy & 99th St","904",41.713966166666665,-87.66793083333333
+"Public Rack - Yates Blvd & Exchange Ave","905",41.765268166666665,-87.56576616666666
+"Public Rack - Prairie Ave & Garfield Blvd S","906",41.79,-87.62
+"Public Rack - Normal Blvd & 61st Pl","908",41.782055259,-87.637477517
+"Public Rack - Wolcott Ave & 61st St","909",41.78257116666666,-87.67161333333334
+"Public Rack - Emerald Ave & 43rd St","911",41.82,-87.64
+"Public Rack - Halsted St & 41st St","912",41.82,-87.65
+"Public Rack - 532 E 43rd St","913",41.82,-87.61
+"Public Rack - Martin Luther King Dr & 44th St","914",41.814445,-87.616265
+"Public Rack - Laflin St & 51st St","915",41.8,-87.66
+"Public Rack - Wood St & 47th St","916",41.81,-87.67
+"Public Rack - Ada St & 119th St","917",41.68,-87.65
+"Public Rack - Pullman Community Center","918",41.704077,-87.59334716666666
+"Public Rack - Pullman - Walmart","919",41.7,-87.6
+"Public Rack - Pullman - Ross Dress for Less","920",41.7,-87.6
+"Public Rack - Pullman - Planet Fitness","921",41.7,-87.6
+"Public Rack - Torrence Ave  & 106th St","923",41.702566,-87.559923
+"Public Rack - Torrence Ave & 103rd St","924",41.70843,-87.56026
+"Public Rack - Michigan Ave & 125th Pl","926",41.666395,-87.619933
+"Public Rack - Michigan Ave & 119th St","927",41.68,-87.62
+"Public Rack - Campbell Ave & Pratt Blvd","929",42.01,-87.69
+"Public Rack - Washtenaw Ave & Devon Ave","930",42.0,-87.7
+"Public Rack - Western Ave & Devon Ave","931",42.0,-87.69
+"Public Rack - Jensen Park","932",41.96,-87.72
+"Public Rack - Drake Ave & Leland Ave","933",41.97,-87.72
+"Public Rack - Kostner Ave & 16th St","934",41.858806849,-87.73423624
+"Public Rack - Lorel Ave & Grand Ave","935",41.92,-87.76
+"Public Rack - Houston Ave & 130th St","936",41.66,-87.55
+"Public Rack - King Dr & 115th St","937",41.69,-87.61
+"Public Rack - Michigan Ave & 107th St","938",41.7,-87.62
+"Public Rack - Stony Island & 87th St","940",41.736548662,-87.585728288
+"Public Rack - Cornell Ave & 87th Pl","941",41.73688127,-87.58314552
+"Public Rack - Saginaw Ave & 93rd St","942",41.73,-87.56
+"Public Rack - Paxton Ave & 79th St","943",41.7517735,-87.57058283333333
+"Public Rack - Vincennes Ave & 77th St","946",41.757036328,-87.565033793
+"Public Rack - Exchange Ave & 73rd Pl","947",41.76257666666667,-87.56377233333333
+"Public Rack - South Shore Dr & 71st St","948",41.77,-87.56
+"Public Rack - Kingston Ave & 75th St","949",41.76,-87.56
+"Public Rack - Woodlawn Ave & 63rd St S","950",41.78,-87.6
+"Public Rack - Woodlawn Ave & 63rd St N","951",41.78,-87.6
+"Public Rack - Lake Shore Dr & Hayes Dr","952",41.78,-87.57
+"Public Rack - Lawndale Ave & 63rd St","953",41.78,-87.71
+"Public Rack - Prairie Ave & Garfield Blvd N","954",41.79,-87.62
+"Public Rack - Eberhart Ave & 61st St","955",41.783824205,-87.613094091
+"Public Rack - King Dr & Oakwood Blvd","956",41.82,-87.62
+"Public Rack - Langley Ave & Oakwood Blvd","957",41.82,-87.61
+"Public Rack - State ST & 42nd St","958",41.82,-87.63
+"Public Rack - 53rd St & Indiana Ave","959",41.798250794,-87.620858073
+"Public Rack - Pulaski Rd & 5th Ave","960",41.8730082,-87.7252516
+"Public Rack - Central Park Ave & 16th St","963",41.86,-87.72
+"Public Rack - Lockwood Ave & Diversey Ave","964",41.93,-87.76
+"Public Rack - Fullerton Ave & Lavergne Ave","965",41.92,-87.75
+"Public Rack - Laporte Ave & Armitage Ave","966",41.92,-87.75
+"Public Rack - La Moyne Ave and Leamington Ave","967",41.90663933333333,-87.75469766666667
+"Public Rack - Lamon Ave & Erie St","969",41.892190166666666,-87.74686416666667
+"Public Rack - Roscoe St & Osceola Ave","970",41.942148328,-87.813124299
+"Public Rack - Normal Ave & 111th St","972",41.69,-87.64
+"Public Rack - Halsted St & 113th St","973",41.688525915,-87.64242506
+"Public Rack - Union Ave & 111th St","974",41.69,-87.64
+"Public Rack - Halsted St & 109th St","977",41.7,-87.64
+"Public Rack - Ave N & 106th St","978",41.702665833333334,-87.53865683333333
+"Public Rack - Ewing Ave & 107th St","979",41.7,-87.54
+"Public Rack - Ewing Ave & 106th St","980",41.7,-87.54
+"Public Rack - Ewing Ave & 95th St","982",41.72,-87.54
+"Public Rack - Ewing Ave & 102nd St","983",41.709948,-87.535365
+"Public Rack - Ashland Ave & 91st St","984",41.73,-87.66
+"Public Rack - Western Ave & 107th St","987",41.7,-87.68
+"Public Rack - Western Ave & 110th St","988",41.69,-87.68
+"Public Rack - 10557 S Western Ave","989",41.7,-87.68
+"Public Rack - Western Ave & 107th Pl","990",41.698207259,-87.681542516
+"Public Rack - Western Ave & 96th St","991",41.72,-87.68
+"Public Rack - Western Ave & 98th St","992",41.72,-87.68
+"Public Rack - Ashland Ave & 83rd St","993",41.74,-87.66
+"Public Rack - Prairie Ave & 78th St","994",41.751953244,-87.618189573
+"Public Rack - King Dr & 71st St","995",41.77,-87.62
+"Public Rack - Ashland Ave & 63rd St","996",41.778946166666664,-87.66428866666666
+"Public Rack - Michigan Ave & 67th St","997",41.771996333333334,-87.6216385
+"Public Rack - Marquette Rd & 67th St","998",41.773098,-87.61282383333334
+"Public Rack - Champlain Ave & 65th St","999",41.78,-87.61
+"MTV WH - Cassette Repair","DIVVY CASSETTE REPAIR MOBILE STATION",41.895543469489944,-87.60292053222655
+"Chicago Ave & Washington St","E002",42.032562,-87.679101
+"Central St Metra","E006",42.063598,-87.69873
+"Central St & Girard Ave","E007",42.064313,-87.686152
+"Chicago Ave & Sheridan Rd","E008",42.050491,-87.677821
+"Dodge Ave & Main St","E011",42.034857035,-87.699108362
+"Lincolnwood Dr & Central St","E014",42.064854,-87.715297
+"Base - 2132 W Hubbard","Hubbard Bike-checking (LBS-WH-TEST)",41.889967494708344,-87.6801560819149
+"Shields Ave & 43rd St","KA1503000001",41.81620767856,-87.6348193497
+"South Shore Dr & 71st St","KA1503000002",41.76640666666667,-87.56582233333333
+"Cottage Grove Ave & 71st St","KA1503000003",41.76571903697,-87.604959713
+"Lake Park Ave & 35th St","KA1503000004",41.83131516,-87.608859777
+"Wentworth Ave & 35th St","KA1503000005",41.830777,-87.632504
+"Cornell Ave & Hyde Park Blvd","KA1503000007",41.802406,-87.586924
+"Princeton Ave & 47th St","KA1503000009",41.80931770924,-87.633449288
+"Halsted St & 51st St","KA1503000010",41.80183164049,-87.645213904
+"Halsted St & 56th St","KA1503000011",41.792977691,-87.645082474
+"Clark St & Lake St","KA1503000012",41.886260629,-87.630536556
+"Princeton Ave & Garfield Blvd","KA1503000013",41.794982,-87.633124
+"Ellis Ave & 60th St","KA1503000014",41.785147667,-87.601085782
+"Wabash Ave & Adams St","KA1503000015",41.87947235235,-87.6256886059
+"Jeffery Blvd & 71st St","KA1503000018",41.76663823695,-87.5764501141
+"Stony Island Ave & 75th St","KA1503000019",41.7586696704,-87.586882871
+"South Shore Dr & 74th St","KA1503000020",41.76218896038,-87.55927465
+"Stony Island Ave & 64th St","KA1503000021",41.778881,-87.586647
+"Clark St & Montrose Ave","KA1503000022",41.961588,-87.666036
+"Stony Island Ave & 67th St","KA1503000023",41.77345849948,-87.5853397391
+"Yates Blvd & 75th St","KA1503000024",41.758768,-87.56644
+"Wentworth Ave & 63rd St","KA1503000025",41.78007963264,-87.6297463052
+"Prairie Ave & 43rd St","KA1503000027",41.81665889302,-87.6194124619
+"Jeffery Blvd & 76th St","KA1503000028",41.7571655,-87.57582666666667
+"South Shore Dr & 67th St","KA1503000029",41.773643,-87.567514
+"Jeffery Blvd & 67th St","KA1503000030",41.77351755125,-87.5771428255
+"Cottage Grove Ave & 67th St","KA1503000031",41.773760796,-87.605717421
+"Union Ave & Root St","KA1503000032",41.819102,-87.643278
+"Eberhart Ave & 61st St","KA1503000033",41.784088135,-87.614513159
+"LaSalle St & Adams St","KA1503000034",41.87934437346,-87.6319852213
+"Shields Ave & 31st St","KA1503000038",41.838389874,-87.635241032
+"Loomis St & Archer Ave","KA1503000040",41.8415941,-87.657690883
+"McClurg Ct & Erie St","KA1503000041",41.894503,-87.617854
+"Kingsbury St & Kinzie St","KA1503000043",41.88917683258,-87.6385057718
+"Rush St & Hubbard St","KA1503000044",41.890360236,-87.626009822
+"Stony Island Ave & 71st St","KA1503000045",41.766511679,-87.586468577
+"Dorchester Ave & 63rd St","KA1503000046",41.780393833333335,-87.591382
+"Perry Ave & 69th St","KA1503000047",41.76929308995,-87.6281959291
+"Rainbow Beach","KA1503000049",41.75787144829,-87.54938625
+"Halsted St & 47th Pl","KA1503000051",41.80813391481,-87.6456165545
+"Ellis Ave & 53rd St","KA1503000052",41.79933626261,-87.6009581145
+"MLK Jr Dr & 63rd St","KA1503000053",41.78008063659,-87.6159428567
+"Cottage Grove Ave & 63rd St","KA1503000054",41.78053094070882,-87.6059702038765
+"Halsted St & 63rd St","KA1503000055",41.77938114228,-87.6446208145
+"Lake Park Ave & 53rd St","KA1503000059",41.79949429373,-87.5864498959
+"Dusable Harbor","KA1503000064",41.886900783,-87.612842321
+"Woodlawn Ave & Lake Park Ave","KA1503000065",41.81409271048,-87.5970051479
+"Wood St & 35th St","KA1503000066",41.830108762,-87.670336127
+"Leavitt St & Archer Ave","KA1503000068",41.828792,-87.680604
+"Dorchester Ave & 49th St","KA1503000069",41.805772,-87.592464
+"Harper Ave & 59th St","KA1503000070",41.78794281287,-87.5883151702
+"University Ave & 57th St","KA1503000071",41.791478,-87.599861
+"Wacker Dr & Washington St","KA1503000072",41.88314336439022,-87.63724207878113
+"MLK Jr Dr & 56th St","KA1503000073",41.79342945658,-87.6158532619
+"Museum of Science and Industry","KA1503000074",41.79172820953,-87.583945009
+"DuSable Museum","KA1503000075",41.79156801058,-87.6078521774
+"Ellis Ave & 55th St","KA1504000076",41.79430062054,-87.6014497734
+"Lincoln Ave & Winona St","KA1504000078",41.97489059,-87.692736983
+"Larrabee St & Division St","KA1504000079",41.903542161,-87.643371105
+"Washtenaw Ave & Lawrence Ave","KA1504000080",41.968987,-87.696027
+"Kedzie Ave & Harrison St","KA1504000082",41.87359967462,-87.7048707493
+"Kedzie Ave & 24th St","KA1504000086",41.84819094491,-87.7054137458
+"St. Louis Ave & Fullerton Ave","KA1504000090",41.92481559681187,-87.71449506282805
+"Hoyne Ave & 47th St","KA1504000091",41.808227,-87.67718
+"Rockwell St & Eastwood Ave","KA1504000093",41.9659,-87.693638
+"Sawyer Ave & Irving Park Rd","KA1504000096",41.95358777,-87.709272861
+"Drake Ave & Montrose Ave","KA1504000097",41.961161017,-87.71656096
+"Kimball Ave & Belmont Ave","KA150400009X",41.939376116,-87.712112188
+"Ogden Ave & Roosevelt Rd","KA1504000101",41.866500974,-87.684449077
+"Fairfield Ave & Roosevelt Rd","KA1504000102",41.866629362,-87.694502831
+"Western Ave & Walton St","KA1504000103",41.89841768945,-87.6865960164
+"Paulina St & Flournoy St","KA1504000104",41.873018622000004,-87.668980002
+"Kedzie Ave & Lake St","KA1504000106",41.884755492,-87.70632875
+"Washtenaw Ave & Ogden Ave","KA1504000109",41.86193049278259,-87.69345045089722
+"Millard Ave & 26th St","KA1504000110",41.84453112462163,-87.71592199802399
+"Sacramento Blvd & Franklin Blvd","KA1504000113",41.89046879243862,-87.70260751247406
+"Kedzie Ave & Chicago Ave","KA1504000114",41.895472288,-87.706128955
+"Larrabee St & Oak St","KA1504000116",41.900296211,-87.642977715
+"Halsted St & North Branch St","KA1504000117",41.89939028549696,-87.64854490756989
+"Kedzie Ave & Leland Ave","KA1504000126",41.96668636205,-87.7080519806
+"Manor Ave & Leland Ave","KA1504000127",41.965875,-87.700825
+"Kedzie Ave & Foster Ave","KA1504000128",41.975672,-87.709261
+"Western Ave & Granville Ave","KA1504000129",41.994160771,-87.689478159
+"Maplewood Ave & Peterson Ave","KA1504000130",41.99023602867,-87.6933696402
+"Rush St & Cedar St","KA1504000133",41.90247488,-87.627832413
+"Ritchie Ct & Banks St","KA1504000134",41.906866,-87.626217
+"Wells St & Elm St","KA1504000135",41.903222,-87.634324
+"Monticello Ave & Irving Park Rd","KA1504000139",41.95403564,-87.719046831
+"Winchester Ave & Elston Ave","KA1504000140",41.924078345,-87.676414371
+"Pulaski Rd & Eddy St (Temp)","KA1504000141",41.94627233333333,-87.731127
+"Drake Ave & Addison St","KA1504000142",41.947326,-87.717582
+"Leavitt St & Addison St","KA1504000143",41.946655,-87.683359
+"Clark St & Berwyn Ave","KA1504000146",41.977920413,-87.668058395
+"Winchester (Ravenswood) Ave & Balmoral Ave","KA1504000147",41.979762,-87.67753
+"Clark St & Elmdale Ave","KA1504000148",41.990860448125574,-87.66972362995148
+"Damen Ave & Foster Ave","KA1504000149",41.97561480459,-87.6794590387
+"Clark St & Bryn Mawr Ave","KA1504000151",41.983605146,-87.669161677
+"2112 W Peterson Ave","KA1504000155",41.99118416666666,-87.68361516666667
+"Clark St & Schreiber Ave","KA1504000156",41.999261141,-87.671361804
+"Oakley Ave & Irving Park Rd","KA1504000158",41.954273343,-87.686060309
+"Sheridan Rd & Greenleaf Ave","KA1504000159",42.01058656284,-87.6624120948
+"Francisco Ave & Foster Ave","KA1504000160",41.975598097,-87.701411247
+"St. Louis Ave & Balmoral Ave","KA1504000161",41.98039423475,-87.7161149615
+"Clark St & Lunt Ave","KA1504000162",42.009054303,-87.674285412
+"Keystone Ave & Montrose Ave","KA1504000164",41.96110801623,-87.7289701012
+"Kedzie Ave & Bryn Mawr Ave","KA1504000167",41.982271671,-87.708920717
+"Western Ave & 28th St","KA1504000168",41.84151770807,-87.6851314409
+"Marine Dr & Ainslie St","KA1504000171",41.971626043,-87.650212526
+"Glenwood Ave & Morse Ave","KA1504000175",42.00797192287,-87.6655023944
+"Damen Ave & Walnut (Lake) St","KA17018054",41.885954976,-87.676951289
+"Leavitt St & Belmont Ave","KA17018068",41.939354,-87.683282
+"Delano Ct & Roosevelt Rd","KA1706005007",41.867491,-87.63219
+"Kildare Ave & Montrose Ave","KA1706005015",41.96108,-87.73569
+"LaSalle Dr & Huron St","KP1705001026",41.894830942,-87.632150888
+"DuSable Lake Shore Dr & North Blvd","LF-005",41.911771774,-87.626852989
+"Lincoln Park Conservatory","LP-",41.924067736,-87.635828733
+"OH Charging Stx - Test","OH Charging Stx - Test",41.863618612,-87.679668069
+"Damen Ave/Coulter St","PI00001",41.8492,-87.67564
+"Streeter Dr/Grand Ave","PI00002",41.892401,-87.612388
+"Leavitt St/North Ave","PI00003",41.910077,-87.682306
+"Franklin St & Illinois St","RN-",41.89102331025185,-87.63547986745834
+"Warren Park West","RP-001",42.001785,-87.688829
+"Warren Park East","RP-002",42.00454962194,-87.6806661451
+"Oakley Ave & Touhy Ave","RP-004",42.012375951,-87.688249707
+"Western Ave & Lunt Ave","RP-005",42.008571,-87.69048283333333
+"Ridge Blvd & Touhy Ave","RP-006",42.01213227742,-87.6829126443
+"Clark St & Touhy Ave","RP-007",42.01256011541,-87.6743671152
+"Clark St & Columbia Ave","RP-008",42.00445062934,-87.6724024047
+"Sheridan Rd & Loyola Ave","RP-009",42.00104377979,-87.6611982433
+"Indiana Ave & Roosevelt Rd","SL-005",41.867888,-87.623041
+"Wells St & 19th St","SL-006",41.856802,-87.633879
+"State St & Harrison St","SL-007",41.874053,-87.627716
+"Federal St & Polk St","SL-008",41.87207763285,-87.6295437729
+"Clark St & 9th St (AMLI)","SL-009",41.870816,-87.631246
+"Financial Pl & Ida B Wells Dr","SL-010",41.875023007,-87.633162498
+"Wells St & Polk St","SL-011",41.872731542263075,-87.63351649045944
+"Wabash Ave & 16th St","SL-012",41.860384,-87.625813
+"State St & 19th St","SL-013",41.856594,-87.627542
+"Wabash Ave & Cermak Rd","TA1305000001",41.852663398,-87.626571298
+"Wabash Ave & Roosevelt Rd","TA1305000002",41.867227,-87.625961
+"Fairbanks Ct & Grand Ave","TA1305000003",41.89184737210993,-87.62058019638062
+"McCormick Place","TA1305000004",41.85141616666667,-87.6189325
+"Dearborn St & Adams St","TA1305000005",41.8793563587,-87.6297910363
+"Dearborn St & Monroe St","TA1305000006",41.881319815,-87.6295209193
+"Clark St & Ida B Wells Dr","TA1305000009",41.8759326655,-87.6305845355
+"Michigan Ave & Ida B Wells Dr","TA1305000010",41.876243,-87.624426
+"Michigan Ave & Lake St","TA1305000011",41.886024,-87.624117
+"Clark St & Wrightwood Ave","TA1305000014",41.929505348,-87.64308691
+"Halsted St & Roosevelt Rd","TA1305000017",41.867324,-87.648625
+"Ogden Ave & Chicago Ave","TA1305000020",41.896362458,-87.6540612729
+"Orleans St & Merchandise Mart Plaza","TA1305000022",41.888243,-87.63639
+"Franklin St & Jackson Blvd","TA1305000025",41.8777079559,-87.6353211408
+"State St & Randolph St","TA1305000029",41.884758949,-87.628069162
+"Clark St & Randolph St","TA1305000030",41.884576228,-87.63188991
+"Clinton St & Madison St","TA1305000032",41.882848024,-87.641402125
+"Honore St & Division St","TA1305000034",41.903078675,-87.673907518
+"State St & Van Buren St","TA1305000035",41.87731766666667,-87.62774816666666
+"Paulina Ave & North Ave","TA1305000037",41.910318136,-87.670103431
+"Elston Ave & Cortland St","TA1305000039",41.916404366,-87.666871428
+"Damen Ave & Pierce Ave","TA1305000041",41.9093960065,-87.6776919292
+"Morgan Ave & 14th Pl","TA1306000002",41.862378,-87.651062
+"Desplaines St & Kinzie St","TA1306000003",41.888716036,-87.6444478533
+"Orleans St & Elm St","TA1306000006",41.902924,-87.637715
+"Larrabee St & Menomonee St","TA1306000007",41.914702058,-87.643314481
+"Larrabee St & North Ave","TA1306000008",41.91017466666667,-87.64355366666666
+"Larrabee St & Kingsbury St","TA1306000009",41.897832274,-87.643360734
+"Daley Center Plaza","TA1306000010",41.884241,-87.629634
+"Wells St & Walton St","TA1306000011",41.899938464,-87.634462357
+"Wells St & Huron St","TA1306000012",41.894722,-87.634362
+"New St & Illinois St","TA1306000013",41.890847040623804,-87.61861681938171
+"Wilton Ave & Diversey Pkwy","TA1306000014",41.932496666666665,-87.65268
+"Sangamon St & Lake St","TA1306000015",41.886014333333335,-87.6510615
+"Sheffield Ave & Fullerton Ave","TA1306000016",41.925549865,-87.653717041
+"Racine Ave & Congress Pkwy","TA1306000025",41.874606609,-87.657157302
+"Racine Ave & Fullerton Ave","TA1306000026",41.925600052,-87.658604503
+"McClurg Ct & Ohio St","TA1306000029",41.89287138,-87.617195845
+"Sheffield Ave & Willow St","TA1306000032",41.913688,-87.652855
+"Greenview Ave & Fullerton Ave","TA1307000001",41.925494313,-87.665898204
+"Indiana Ave & 26th St","TA1307000005",41.845755458,-87.622488737
+"Southport Ave & Wellington Ave","TA1307000006",41.935806,-87.66355183333333
+"Sedgwick St & North Ave","TA1307000038",41.911386,-87.638677
+"Clark St & Elm St","TA1307000039",41.902973,-87.63128
+"DuSable Lake Shore Dr & Wellington Ave","TA1307000041",41.9366884494997,-87.63682901859283
+"Clinton St & 18th St","TA1307000044",41.857856274,-87.640803933
+"Fort Dearborn Dr & 31st St","TA1307000048",41.838556,-87.608218
+"Sheffield Ave & Wellington Ave","TA1307000052",41.9362534831413,-87.65266209840775
+"State St & Pearson St","TA1307000061",41.897448,-87.628722
+"Sedgwick St & Huron St","TA1307000062",41.894666,-87.638437
+"Lincoln Ave & Diversey Pkwy","TA1307000064",41.932198048,-87.658786654
+"Damen Ave & Coulter St","TA1307000066",41.849173069,-87.675613999
+"Damen Ave & Thomas St (Augusta Blvd)","TA1307000070",41.901315,-87.677409
+"Sheridan Rd & Montrose Ave","TA1307000107",41.961651921,-87.654620171
+"Franklin St & Lake St","TA1307000111",41.88596616666667,-87.63541216666667
+"Southport Ave & Wrightwood Ave","TA1307000113",41.928756714,-87.663865685
+"Clybourn Ave & Division St","TA1307000115",41.90465045,-87.640608549
+"Wabash Ave & Grand Ave","TA1307000117",41.891466,-87.626761
+"Clarendon Ave & Leland Ave","TA1307000119",41.96788316666667,-87.64993766666667
+"Green St & Madison St","TA1307000120",41.881859328038225,-87.64926373958588
+"Halsted St & Polk St","TA1307000121",41.87184,-87.64664
+"Michigan Ave & 14th St","TA1307000124",41.863981485,-87.6237427
+"Sheffield Ave & Waveland Ave","TA1307000126",41.949399,-87.654529
+"Clark St & Grace St","TA1307000127",41.950934172,-87.659230471
+"Dearborn Pkwy & Delaware Pl","TA1307000128",41.898969,-87.629912
+"State St & 35th St","TA1307000129",41.8310363140161,-87.62679755687714
+"Morgan St & Polk St","TA1307000130",41.871737,-87.65103
+"Wabash Ave & Wacker Pl","TA1307000131",41.886875,-87.62603
+"Wilton Ave & Belmont Ave","TA1307000134",41.940231918108594,-87.65294373035431
+"Clark St & Wellington Ave","TA1307000136",41.9364968219,-87.6475386582
+"Wood St & Webster Ave","TA1307000138",41.921003461,-87.67280674
+"MLK Jr Dr & 29th St","TA1307000139",41.842089057,-87.617005348
+"Western Ave & Leland Ave","TA1307000140",41.966399801840986,-87.68870428204536
+"Clark St & Drummond Pl","TA1307000142",41.931332588,-87.644267797
+"Sedgwick St & Schiller St","TA1307000143",41.907626,-87.638566
+"Wolcott (Ravenswood) Ave & Montrose Ave","TA1307000144",41.961449742,-87.676328778
+"Ravenswood Ave & Irving Park Rd","TA1307000149",41.954634547,-87.673963189
+"Pine Grove Ave & Waveland Ave","TA1307000150",41.94947274088333,-87.64645278453827
+"Wells St & Hubbard St","TA1307000151",41.889906,-87.634266
+"Emerald Ave & 28th St","TA1307000153",41.84358,-87.645368
+"Lincoln Ave & Sunnyside Ave","TA1307000156",41.963004,-87.684781
+"Damen Ave & Leland Ave","TA1307000158",41.967146873,-87.679046512
+"Paulina St & 18th St","TA1307000159",41.857901,-87.668745
+"Prairie Ave & Garfield Blvd","TA1307000160",41.794853,-87.618691
+"Halsted St & 37th St","TA1307000161",41.827059,-87.64572
+"Clifton Ave & Armitage Ave","TA1307000163",41.918216,-87.656936
+"Woodlawn Ave & 55th St","TA1307000164",41.795264,-87.596471
+"Halsted St & Willow St","TA1307000166",41.913865,-87.648755
+"Theater on the Lake","TA1308000001",41.926277,-87.630834
+"Greenwood Ave & 47th St","TA1308000002",41.809835,-87.599383
+"Leavitt St & North Ave","TA1308000005",41.91050936666395,-87.6823890209198
+"Damen Ave & Grand Ave","TA1308000006",41.892394452962705,-87.67688512802124
+"MLK Jr Dr & 47th St","TA1308000007",41.809851,-87.616279
+"Shore Dr & 55th St","TA1308000009",41.795196056,-87.580976009
+"Montrose Harbor","TA1308000012",41.963982,-87.638181
+"Halsted St & Archer Ave","TA1308000013",41.847156644,-87.646926641
+"Normal Ave & Archer Ave","TA1308000014",41.849527,-87.640591
+"Racine Ave & Belmont Ave","TA1308000019",41.939710021,-87.658867002
+"Winthrop Ave & Lawrence Ave","TA1308000021",41.968812,-87.657659
+"Pine Grove Ave & Irving Park Rd","TA1308000022",41.954342723,-87.648080468
+"Cottage Grove Ave & 43rd St","TA1308000023",41.816499,-87.606582
+"Wentworth Ave & 24th St (Temp)","TA1308000026",41.85008369347577,-87.6321405172348
+"Stetson Ave & South Water St","TA1308000029",41.886835,-87.62232
+"Logan Blvd & Elston Ave","TA1308000031",41.929431677,-87.684117198
+"Lake Park Ave & 47th St","TA1308000035",41.809444785,-87.591874599
+"Indiana Ave & 31st St","TA1308000036",41.838842,-87.621857
+"Cottage Grove Ave & Oakwood Blvd","TA1308000038",41.822985,-87.6071
+"Halsted St & 35th St","TA1308000043",41.830661,-87.647172
+"Wallace St & 35th St","TA1308000045",41.830707051440854,-87.64125533401966
+"Morgan St & 31st St","TA1308000046",41.8378,-87.65114
+"Southport Ave & Clark St","TA1308000047",41.957081,-87.664199
+"Wells St & Evergreen Ave","TA1308000049",41.906724,-87.63483
+"Wells St & Concord Ln","TA1308000050",41.912133,-87.634656
+"Halsted St & Maxwell St","TA1309000001",41.864883,-87.647071
+"Michigan Ave & Jackson Blvd","TA1309000002",41.87785,-87.62408
+"Western Ave & 24th St","TA1309000003",41.848487735,-87.685139298
+"LaSalle St & Jackson Blvd","TA1309000004",41.878166,-87.631929
+"Larrabee St & Armitage Ave","TA1309000006",41.918084,-87.643749
+"Franklin St & Monroe St","TA1309000007",41.880317,-87.635185
+"Franklin St & Adams St (Temp)","TA1309000008",41.87943409140013,-87.63550400733948
+"Wabash Ave & 9th St","TA1309000010",41.870425224,-87.625512242
+"Ellis Ave & 58th St","TA1309000011",41.788652301,-87.601228476
+"Damen Ave & Sunnyside Ave","TA1309000012",41.963278174,-87.679250598
+"Clark St & Leland Ave","TA1309000014",41.96708783918421,-87.66729086637497
+"Leavitt St & Lawrence Ave","TA1309000015",41.968885,-87.684001
+"Ravenswood Ave & Berteau Ave","TA1309000018",41.957878709,-87.673550487
+"Lakeview Ave & Fullerton Pkwy","TA1309000019",41.926068902,-87.638858199
+"Paulina St & Montrose Ave","TA1309000021",41.961491227,-87.671495438
+"Sheffield Ave & Wrightwood Ave","TA1309000023",41.928788543,-87.653811216
+"Clark St & Schiller St","TA1309000024",41.907993,-87.631501
+"Halsted St & Roscoe St","TA1309000025",41.943695784,-87.648905277
+"Lincoln Ave & Belle Plaine Ave","TA1309000026",41.95600355078549,-87.68016144633293
+"Sheridan Rd & Buena Ave","TA1309000027",41.958536625,-87.654984713
+"Leavitt St & Armitage Ave","TA1309000029",41.917799711,-87.682555199
+"Southport Ave & Clybourn Ave","TA1309000030",41.920796,-87.663787
+"Elston Ave & Wabansia Ave","TA1309000032",41.912919,-87.664169
+"Sheffield Ave & Webster Ave","TA1309000033",41.92154,-87.653818
+"Clark St & Winnemac Ave","TA1309000035",41.97332263,-87.667812228
+"Burling St & Diversey Pkwy","TA1309000036",41.933080554,-87.647745132
+"Kimbark Ave & 53rd St","TA1309000037",41.799568,-87.594747
+"DuSable Lake Shore Dr & Diversey Pkwy","TA1309000039",41.932588,-87.636427
+"Sheridan Rd & Lawrence Ave","TA1309000041",41.969418526,-87.654640436
+"Lincoln Ave & Belmont Ave (Temp)","TA1309000042",41.93953161982257,-87.6711143553257
+"Southport Ave & Irving Park Rd","TA1309000043",41.954177,-87.664358
+"DuSable Lake Shore Dr & Belmont Ave","TA1309000049",41.94075942,-87.639175773
+"Lincoln Ave & Addison St","TA1309000050",41.946149349,-87.673281431
+"Commercial Ave & 83rd St","TA1309000051",41.744615,-87.551208
+"Cottage Grove Ave & 47th St","TA1309000053",41.809855,-87.606755
+"Emerald Ave & 31st St","TA1309000055",41.838198,-87.645143
+"Lincoln Ave & Fullerton Ave","TA1309000058",41.924073935,-87.646278381
+"Racine Ave & Wrightwood Ave","TA1309000059",41.928887,-87.658971
+"Halsted St & Wrightwood Ave","TA1309000061",41.929143,-87.649077
+"Lake Park Ave & 56th St","TA1309000063",41.793242,-87.587782
+"Wolcott Ave & Polk St","TA1309000064",41.87133766666667,-87.673581
+"Ravenswood Ave & Lawrence Ave","TA1309000066",41.96909,-87.674237
+"Cottage Grove Ave & 51st St","TA1309000067",41.803038,-87.606615
+"Clinton St & Roosevelt Rd","WL-008",41.8671177825,-87.6410879593
+"Jefferson St & Monroe St","WL-011",41.880395174,-87.642838001
+"Clinton St & Washington Blvd","WL-012",41.883379221,-87.641286492
+"Wilton Ave & Diversey Pkwy*","chargingstx0",41.932418,-87.652705
+"Fort Dearborn Dr & 31st St*","chargingstx06",41.83867632897121,-87.60883212089539
+"Wentworth Ave & Cermak Rd*","chargingstx07",41.853214418519656,-87.63187229633331
+"Bissell St & Armitage Ave*","chargingstx1",41.918513536,-87.65223825
+"Wilton Ave & Diversey Pkwy*","chargingstx2",41.932418,-87.652705
+"Green St & Randolph St*","chargingstx3",41.883601657275165,-87.64862671494483
+"Morgan St & Lake St*","chargingstx4",41.885574341,-87.652316689
+"Lincoln Ave & Roscoe St*","chargingstx5",41.943246722,-87.670766592

@@ -1,0 +1,14 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(graphbundling.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  GgsGraphInfoAmount.cpp
+d:\workspace\geograph-master\src\core\ggsgraphproxy.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\geograph-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\geograph-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\geograph-master\include\eigen3\eigen\src\core\arch\default\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\geograph-master\include\eigen3\eigen\src\core\arch\default\bfloat16.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\geograph-master\include\eigen3\eigen\src\core\arch\default\genericpacketmathfunctions.h(675): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 ..\bin\Release\geograph.lib 和对象 ..\bin\Release\geograph.exp
+  geograph.vcxproj -> D:\Workspace\geograph-master\src\..\bin\Release\geograph.exe
+  Microsoft (R) COFF/PE Editor Version 14.16.27045.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  

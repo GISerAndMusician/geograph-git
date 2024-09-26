@@ -1,0 +1,37 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project 'D:\Workspace\qgis\qgis-pure\ZERO_CHECK.vcxproj' does not exist.
+  Generating ../../output/data/images/icons/qbrowser-icon.png
+  Generating ../../output/data/images/icons/qgis-icon-16x16.png
+  Generating ../../output/data/images/icons/qgis-icon-512x512.png
+  Generating ../../output/data/images/icons/qgis-icon-60x60.png
+  Generating ../../output/data/images/icons/qgis-icon-macos.png
+  Generating ../../output/data/images/icons/qgis-mime-icon.png
+  Generating ../../output/data/images/icons/sponsor_medals/2010/bronze_medal_2010.png
+  Generating ../../output/data/images/icons/sponsor_medals/2010/gold_medal_2010.png
+  Generating ../../output/data/images/icons/sponsor_medals/2010/platin_medal_2010.png
+  Generating ../../output/data/images/icons/sponsor_medals/2010/silver_medal_2010.png
+  Generating ../../output/data/images/icons/sponsor_medals/2011/bronze_medal_2011.png
+  Generating ../../output/data/images/icons/sponsor_medals/2011/gold_medal_2011.png
+  Generating ../../output/data/images/icons/sponsor_medals/2011/platin_medal_2011.png
+  Generating ../../output/data/images/icons/sponsor_medals/2011/silver_medal_2011.png
+  Building Custom Rule D:/Workspace/qgis/qgis-pure/images/icons/CMakeLists.txt
+  CMake is re-running because D:/Workspace/qgis/qgis-pure/images/icons/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/Workspace/qgis/qgis-pure/cmake/CopyResources.cmake'
+    is newer than 'D:/Workspace/qgis/qgis-pure/images/icons/CMakeFiles/generate.stamp.depend'
+    result='0'
+  -- Building for: Visual Studio 16 2019
+  -- The C compiler identification is unknown
+  -- The CXX compiler identification is unknown
+  CMake Error at CMakeLists.txt:23 (project):
+    No CMAKE_C_COMPILER could be found.
+  
+  
+  
+  CMake Error at CMakeLists.txt:23 (project):
+    No CMAKE_CXX_COMPILER could be found.
+  
+  
+  
+  -- Configuring incomplete, errors occurred!
+  See also "D:/Workspace/qgis/qgis-pure/CMakeFiles/CMakeOutput.log".
+  See also "D:/Workspace/qgis/qgis-pure/CMakeFiles/CMakeError.log".
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(209,5): error MSB6006: “cmd.exe”已退出，代码为 1。

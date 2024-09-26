@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qbrowser-icon.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qgis-icon-16x16.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qgis-icon-512x512.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qgis-icon-60x60.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qgis-icon-macos.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1c61a911f5c716261fe97297778cd562\qgis-mime-icon.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\18d3d93d257879c95b531690ab3c8fa5\bronze_medal_2010.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\18d3d93d257879c95b531690ab3c8fa5\gold_medal_2010.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\18d3d93d257879c95b531690ab3c8fa5\platin_medal_2010.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\18d3d93d257879c95b531690ab3c8fa5\silver_medal_2010.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\a76c16bf15379fd41b590419a437d44f\bronze_medal_2011.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\a76c16bf15379fd41b590419a437d44f\gold_medal_2011.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\a76c16bf15379fd41b590419a437d44f\platin_medal_2011.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\a76c16bf15379fd41b590419a437d44f\silver_medal_2011.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\e91495c5b9cd83d01362a72aa675d060\icons.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\images\icons\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Workspace\qgis\qgis-pure\images\icons\CMakeFiles\icons" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A24967F-0AA2-33D4-BE86-FFCB99671CE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F98612BF-5845-4586-9FE4-A44FAB9B4ED6}</ProjectGuid>
+    <Keyword>QtVS_v304</Keyword>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">10.0.19041.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">10.0.19041.0</WindowsTargetPlatformVersion>
+    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
+    <ProjectName>geograph</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt_defaults.props')">
+    <Import Project="$(QtMsBuild)\qt_defaults.props" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
+    <QtInstall>5.12.10_msvc2017_64</QtInstall>
+    <QtModules>core;xml;sql;network;gui;svg;widgets</QtModules>
+    <QtBuildConfig>debug</QtBuildConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
+    <QtInstall>5.12.10_msvc2017_64</QtInstall>
+    <QtModules>core;xml;sql;network;gui;svg;widgets</QtModules>
+    <QtBuildConfig>release</QtBuildConfig>
+  </PropertyGroup>
+  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
+    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
+  </Target>
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Label="Shared" />
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <OutDir>..\bin\Debug</OutDir>
+    <TargetName>$(ProjectName)d</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutDir>..\bin\Release</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>..\include;..\include\qgis;..\include\qgis\core;..\include\qgis\core\3d;..\include\qgis\core\annotations;..\include\qgis\core\auth;..\include\qgis\core\callouts;..\include\qgis\core\classification;..\include\qgis\core\diagram;..\include\qgis\core\dxf;..\include\qgis\core\effects;..\include\qgis\core\expression;..\include\qgis\core\fieldformatter;..\include\qgis\core\geocms;..\include\qgis\core\geometry;..\include\qgis\core\gps;..\include\qgis\core\labeling;..\include\qgis\core\layertree;..\include\qgis\core\layout;..\include\qgis\core\locator;..\include\qgis\core\mesh;..\include\qgis\core\metadata;..\include\qgis\core\numericformats;..\include\qgis\core\pal;..\include\qgis\core\processing;..\include\qgis\core\providers;..\include\qgis\core\providers\memory;..\include\qgis\core\raster;..\include\qgis\core\scalebar;..\include\qgis\core\symbology;..\include\qgis\core\textrenderer;..\include\qgis\core\validity;..\include\qgis\core\vectortile;..\include\qgis\gui;..\include\qgis\gui\attributeformconfig;..\include\qgis\gui\attributetable;..\include\qgis\gui\layertree;..\include\qgis\gui\ogr;..\include\qgis\gui\providers\gdal;..\include\qgis\gui\providers\ogr;..\include\qgis\gui\vector;..\include\qgis\gui\raster;..\include\qgis\gui\mesh;..\include\qgis\gui\vectortile;..\include\qgis\gui\processing;..\include\qgis\gui\symbology;..\include\qgis\gui\editorwidgets;..\include\qgis\gui\editorwidgets\core;..\include\qgis\gui\codeeditors;..\include\nlohmann;..\include\qgis\app\vectortile;..\include\qgis\app;..\include\qgis\ui\Debug;..\include\QtCrypto;..\include\qt5keychain;..\include\eigen3;.\;.\core;.\gui;.\algo;.\algo\FDEB;.\algo\MINGLE;.\algo\KDEEB;.\algo\LWO;.\process;.\statistic;$(PYTHONHOME)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_USE_MATH_DEFINES;PROJ_VERSION_MAJOR=6;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>..\lib;$(PYTHONHOME)\libs</AdditionalLibraryDirectories>
+      <AdditionalDependencies>qgis_cored.lib;qgis_guid.lib;qgis_appd.lib;qca-qt5d.lib;qt5keychaind.lib;gdal_i.lib;COINd.lib;OGDFd.lib;python310.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>editbin /SUBSYSTEM:CONSOLE $(OUTDIR)\$(ProjectName)d.exe</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>..\include;..\include\qgis;..\include\qgis\core;..\include\qgis\core\3d;..\include\qgis\core\annotations;..\include\qgis\core\auth;..\include\qgis\core\callouts;..\include\qgis\core\classification;..\include\qgis\core\diagram;..\include\qgis\core\dxf;..\include\qgis\core\effects;..\include\qgis\core\expression;..\include\qgis\core\fieldformatter;..\include\qgis\core\geocms;..\include\qgis\core\geometry;..\include\qgis\core\gps;..\include\qgis\core\labeling;..\include\qgis\core\layertree;..\include\qgis\core\layout;..\include\qgis\core\locator;..\include\qgis\core\mesh;..\include\qgis\core\metadata;..\include\qgis\core\numericformats;..\include\qgis\core\pal;..\include\qgis\core\processing;..\include\qgis\core\providers;..\include\qgis\core\providers\memory;..\include\qgis\core\raster;..\include\qgis\core\scalebar;..\include\qgis\core\symbology;..\include\qgis\core\textrenderer;..\include\qgis\core\validity;..\include\qgis\core\vectortile;..\include\qgis\gui;..\include\qgis\gui\attributeformconfig;..\include\qgis\gui\attributetable;..\include\qgis\gui\layertree;..\include\qgis\gui\ogr;..\include\qgis\gui\providers\gdal;..\include\qgis\gui\providers\ogr;..\include\qgis\gui\vector;..\include\qgis\gui\raster;..\include\qgis\gui\mesh;..\include\qgis\gui\vectortile;..\include\qgis\gui\symbology;..\include\qgis\gui\editorwidgets;..\include\qgis\gui\editorwidgets\core;..\include\qgis\gui\processing;..\include\qgis\gui\codeeditors;..\include\nlohmann;..\include\qgis\app\vectortile;..\include\qgis\app;..\include\qgis\ui\Release;..\include\QtCrypto;..\include\qt5keychain;..\include\eigen3;.\;.\core;.\gui;.\algo;.\algo\FDEB;.\algo\KDEEB;.\algo\MINGLE;.\algo\LWO;.\process;.\statistic;$(PYTHONHOME)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_USE_MATH_DEFINES;PROJ_VERSION_MAJOR=6;NOMINMAX;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>..\lib;$(PYTHONHOME)\libs</AdditionalLibraryDirectories>
+      <AdditionalDependencies>qgis_core.lib;qgis_gui.lib;qgis_app.lib;qca-qt5.lib;qt5keychain.lib;gdal_i.lib;COIN.lib;OGDF.lib;python310.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>editbin /SUBSYSTEM:CONSOLE $(OUTDIR)\$(ProjectName).exe</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="algo\FDEB\GgsFdebEdge.cpp" />
+    <ClCompile Include="algo\FDEB\GgsFdebGraph.cpp" />
+    <ClCompile Include="algo\FDEB\GgsFdebNode.cpp" />
+    <ClCompile Include="algo\FDEB\GgsFdebWidget.cpp" />
+    <ClCompile Include="algo\FDEB\meerkat_logger.cpp" />
+    <ClCompile Include="algo\FDEB\meerkat_vector2.cpp" />
+    <ClCompile Include="algo\KDEEB\GgsKdeebBundler.cpp" />
+    <ClCompile Include="algo\KDEEB\GgsKdeebWidget.cpp" />
+    <ClCompile Include="algo\LWO\GgsLwoInteraction.cpp" />
+    <ClCompile Include="algo\LWO\GgsLwoInteractionWidget.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleBundler.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleEdge.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleGraph.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleKdTree.cpp" />
+    <ClCompile Include="algo\MINGLE\MINGLEMathUtils.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleNode.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleRenderContext.cpp" />
+    <ClCompile Include="algo\MINGLE\GgsMingleWidget.cpp" />
+    <ClCompile Include="core\GgsBezierCurve.cpp" />
+    <ClCompile Include="core\GgsEdgeProxy.cpp" />
+    <ClCompile Include="core\GgsGraphProject.cpp" />
+    <ClCompile Include="core\GgsGraphProxy.cpp" />
+    <ClCompile Include="core\GgsNodeProxy.cpp" />
+    <ClCompile Include="GgsCsvGraphExportDialog.cpp" />
+    <ClCompile Include="GgsCsvGraphImportDialog.cpp" />
+    <ClCompile Include="GgsCsvParser.cpp" />
+    <ClCompile Include="GgsGraphLayerBuilder.cpp" />
+    <ClCompile Include="GgsGraphMapToolSelect.cpp" />
+    <ClCompile Include="GgsGraphMapToolSelectionHandler.cpp" />
+    <ClCompile Include="GgsGraphMapToolSelectUtils.cpp" />
+    <ClCompile Include="GgsODDataImportDialog.cpp" />
+    <ClCompile Include="gui\GgsGraphLegendWidget.cpp" />
+    <ClCompile Include="GgsLayerTreeViewMenuProvider.cpp" />
+    <ClCompile Include="GgsMapThemes.cpp" />
+    <ClCompile Include="process\GgsAggregation.cpp" />
+    <ClCompile Include="process\GgsBackbone.cpp" />
+    <ClCompile Include="process\GgsBackboneDialog.cpp" />
+    <ClCompile Include="process\GgsConvexHullDialog.cpp" />
+    <ClCompile Include="process\GgsEntropyWeight.cpp" />
+    <ClCompile Include="process\GgsKcoreDialog.cpp" />
+    <ClCompile Include="process\GgsPython.cpp" />
+    <ClCompile Include="process\GgsCluster.cpp" />
+    <ClCompile Include="process\GgsClusterDialog.cpp" />
+    <ClCompile Include="statistic\GgsGraphInfoAmount.cpp" />
+    <ClCompile Include="statistic\GgsGraphStatistic.cpp" />
+    <ClCompile Include="statistic\GgsGraphStatisticDialog.cpp" />
+    <ClCompile Include="statistic\GgsSimilarityDialog.cpp" />
+    <QtMoc Include="GgsApp.h" />
+    <ClCompile Include="GgsApp.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="images\images.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="GgsMapThemes.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="GgsLayerTreeViewMenuProvider.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="GgsCsvGraphImportDialog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algo\Compute_Geometry.h" />
+    <QtMoc Include="GgsCsvGraphExportDialog.h" />
+    <QtMoc Include="algo\LWO\GgsLwoInteractionWidget.h" />
+    <ClInclude Include="GgsODDataImportDialog.h" />
+    <ClInclude Include="process\GgsAggregation.h" />
+    <ClInclude Include="process\GgsBackbone.h" />
+    <QtMoc Include="statistic\GgsSimilarityDialog.h" />
+    <QtMoc Include="statistic\GgsGraphStatisticDialog.h" />
+    <QtMoc Include="process\GgsKcoreDialog.h" />
+    <QtMoc Include="process\GgsBackboneDialog.h" />
+    <QtMoc Include="process\GgsConvexHullDialog.h" />
+    <ClInclude Include="process\GgsEntropyWeight.h" />
+    <ClInclude Include="process\GgsPython.h" />
+    <ClInclude Include="process\GgsCluster.h" />
+    <ClInclude Include="statistic\GgsConvexHull.h" />
+    <ClInclude Include="statistic\GgsGraphInfoAmount.h" />
+    <ClInclude Include="statistic\GgsGraphStatistic.h" />
+    <QtMoc Include="process\GgsClusterDialog.h" />
+    <QtMoc Include="algo\LWO\GgsLwoInteraction.h" />
+    <QtMoc Include="core\GgsGraphProxy.h" />
+    <QtMoc Include="core\GgsGraphProject.h" />
+    <ClInclude Include="core\GgsBezierCurve.h" />
+    <ClInclude Include="GgsGraphMapToolSelectUtils.h" />
+    <QtMoc Include="GgsGraphMapToolSelectionHandler.h" />
+    <QtMoc Include="GgsGraphMapToolSelect.h" />
+    <QtMoc Include="gui\GgsGraphLegendWidget.h" />
+    <QtMoc Include="algo\MINGLE\GgsMingleBundler.h" />
+    <QtMoc Include="algo\KDEEB\GgsKdeebBundler.h" />
+    <QtMoc Include="algo\KDEEB\GgsKdeebWidget.h" />
+    <ClInclude Include="algo\FDEB\GgsFdebEdge.hpp" />
+    <ClInclude Include="algo\FDEB\GgsFdebGraph.hpp" />
+    <ClInclude Include="algo\FDEB\GgsFdebNode.hpp" />
+    <QtMoc Include="algo\FDEB\GgsFdebWidget.h" />
+    <ClInclude Include="algo\FDEB\meerkat_logger.hpp" />
+    <ClInclude Include="algo\FDEB\meerkat_vector2.hpp" />
+    <ClInclude Include="algo\MINGLE\GgsMingleEdge.h" />
+    <ClInclude Include="algo\MINGLE\GgsMingleGraph.h" />
+    <ClInclude Include="algo\MINGLE\GgsMingleKdTree.h" />
+    <ClInclude Include="algo\MINGLE\GgsMingleMathUtils.h" />
+    <ClInclude Include="algo\MINGLE\GgsMingleNode.h" />
+    <ClInclude Include="algo\MINGLE\GgsMingleRenderContext.h" />
+    <QtMoc Include="algo\MINGLE\GgsMingleWidget.h" />
+    <ClInclude Include="core\GgsEdgeProxy.h" />
+    <ClInclude Include="core\GgsNodeProxy.h" />
+    <ClInclude Include="GgsCsvParser.h" />
+    <ClInclude Include="GgsGraphLayerBuilder.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="ui\GgsApp.ui" />
+    <QtUic Include="ui\GgsBackboneDialog.ui" />
+    <QtUic Include="ui\GgsClusterDialog.ui" />
+    <QtUic Include="ui\GgsConvexHullDialog.ui" />
+    <QtUic Include="ui\GgsCsvGraphExportDialog.ui" />
+    <QtUic Include="ui\GgsCsvGraphImportDialog.ui" />
+    <QtUic Include="ui\GgsFdebWidget.ui" />
+    <QtUic Include="ui\GgsGraphLegendWidget.ui" />
+    <QtUic Include="ui\GgsGraphStatisticDialog.ui" />
+    <QtUic Include="ui\GgsKcoreDialog.ui" />
+    <QtUic Include="ui\GgsKdeebWidget.ui" />
+    <QtUic Include="ui\GgsLwoInteractionWidget.ui" />
+    <QtUic Include="ui\GgsMingleWidget.ui" />
+    <QtUic Include="ui\GgsODDataDialog.ui" />
+    <QtUic Include="ui\GgsSimilarityDialog.ui" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
+    <Import Project="$(QtMsBuild)\qt.targets" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

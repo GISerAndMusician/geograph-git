@@ -1,0 +1,2 @@
+D:/Workspace/qgis/qgis-3.16.16-source
+D:/Workspace/geograph-master

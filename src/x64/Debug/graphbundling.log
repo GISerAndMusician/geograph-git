@@ -1,0 +1,116 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(graphbundling.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  GgsFdebEdge.cpp
+  GgsFdebGraph.cpp
+  QgsFdebNode.cpp
+  GgsFdebWidget.cpp
+  meerkat_logger.cpp
+  meerkat_vector2.cpp
+  GgsKdeebBundler.cpp
+  GgsKdeebWidget.cpp
+  GgsLwoInteraction.cpp
+  GgsBezierCurve.cpp
+  GgsMingleBundler.cpp
+  GgsMingleEdge.cpp
+d:\workspace\graphbundling-master\src\algo\mingle\ggsbeziercurve.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsBezierCurve.cpp)
+d:\workspace\graphbundling-master\src\algo\mingle\ggsminglebundler.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GgsMingleGraph.cpp
+  GgsMingleKdTree.cpp
+  MINGLEMathUtils.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\KDEEB\GgsKdeebBundler.cpp)
+  GgsMingleNode.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\LWO\GgsLwoInteraction.cpp)
+  GgsMingleRenderContext.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsMingleBundler.cpp)
+  GgsMingleWidget.cpp
+  GgsEdgeProxy.cpp
+  GgsGraphProject.cpp
+d:\workspace\graphbundling-master\src\algo\mingle\ggsbeziercurve.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsMingleBundler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\FDEB\GgsFdebWidget.cpp)
+  GgsGraphProxy.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\KDEEB\GgsKdeebWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\FDEB\GgsFdebWidget.cpp)
+d:\workspace\graphbundling-master\src\algo\mingle\minglemathutils.cpp(24): warning C4172: 返回局部变量或临时变量的地址: ret
+d:\workspace\graphbundling-master\src\algo\mingle\minglemathutils.cpp(39): warning C4172: 返回局部变量或临时变量的地址: ret
+d:\workspace\graphbundling-master\src\algo\mingle\minglemathutils.cpp(53): warning C4172: 返回局部变量或临时变量的地址: ret
+  GgsNodeProxy.cpp
+  GgsCsvGraphImportDialog.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\LWO\GgsLwoInteraction.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsGraphProject.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsEdgeProxy.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\KDEEB\GgsKdeebWidget.cpp)
+  GgsCsvParser.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsGraphProxy.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsMingleBundler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsGraphProject.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsEdgeProxy.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsGraphProxy.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsMingleWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 algo\MINGLE\GgsMingleWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsNodeProxy.cpp)
+  GgsGraphLayerBuilder.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 core\GgsNodeProxy.cpp)
+  GgsGraphMapToolSelect.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsCsvGraphImportDialog.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsCsvGraphImportDialog.cpp)
+  GgsGraphMapToolSelectionHandler.cpp
+  GgsGraphMapToolSelectUtils.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphLayerBuilder.cpp)
+  GgsGraphLegendWidget.cpp
+  GgsLayerTreeViewMenuProvider.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelectUtils.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphLayerBuilder.cpp)
+  GgsMapThemes.cpp
+  GgsApp.cpp
+  main.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelect.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelectionHandler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelectUtils.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 gui\GgsGraphLegendWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsApp.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsLayerTreeViewMenuProvider.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 gui\GgsGraphLegendWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsMapThemes.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelect.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelectionHandler.cpp)
+d:\workspace\graphbundling-master\include\qgis\gui\qgsrubberband.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsGraphMapToolSelectionHandler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsMapThemes.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsApp.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GgsLayerTreeViewMenuProvider.cpp)
+  qrc_images.cpp
+  moc_GgsApp.cpp
+  moc_GgsMapThemes.cpp
+  moc_GgsLayerTreeViewMenuProvider.cpp
+  moc_GgsCsvGraphImportDialog.cpp
+  moc_GgsLwoInteraction.cpp
+  moc_GgsGraphProxy.cpp
+  moc_GgsGraphProject.cpp
+  moc_GgsGraphMapToolSelectionHandler.cpp
+  moc_GgsGraphMapToolSelect.cpp
+  moc_GgsGraphLegendWidget.cpp
+  moc_GgsBezierCurve.cpp
+d:\workspace\graphbundling-master\src\algo\mingle\ggsbeziercurve.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsBezierCurve.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsGraphProxy.cpp)
+  moc_GgsMingleBundler.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsGraphProxy.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsApp.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsMapThemes.cpp)
+  moc_GgsKdeebBundler.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsLayerTreeViewMenuProvider.cpp)
+  moc_GgsKdeebWidget.cpp
+  moc_GgsFdebWidget.cpp
+  moc_GgsMingleWidget.cpp
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsMingleBundler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsKdeebBundler.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsApp.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsMapThemes.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsFdebWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsKdeebWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsFdebWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsfield.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsMingleWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsMingleWidget.cpp)
+d:\workspace\graphbundling-master\include\qgis\core\qgsvectorlayer.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 x64\Debug\moc\moc_GgsKdeebWidget.cpp)
+    正在创建库 ..\bin\Debug\geographd.lib 和对象 ..\bin\Debug\geographd.exp
+  graphbundling.vcxproj -> D:\Workspace\GraphBundling-master\src\..\bin\Debug\geographd.exe

@@ -1,0 +1,1010 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_alpinehut.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_bed_and_breakfast.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_camping.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_caravan_park.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_hotel.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_hotel2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_house.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_shelter.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_shelter2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\bdca24489d7410f1da37fd9b93cde728\accommodation_youth_hostel.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_bench.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_court.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_firestation.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_firestation2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_firestation3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_fountain.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_information.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_library.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_police.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_police2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_post_box.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_post_office.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_prison.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_recycling.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_survey_point.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_telephone.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_toilets.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_toilets_disabled.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_toilets_men.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_toilets_women.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\55d5b63cdfff063ec631887ba5a9060f\amenity_waste_bin.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_01.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_02.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_03.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_04.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_05.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\Arrow_06.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_01.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_02.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_03.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_04.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_05.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_06.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_07.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_08.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_09.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_10.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1f1178c6b3e6307a1098752b06ec9656\NorthArrow_11.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_circle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_forbidden.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_octogon.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_safety.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_security.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_security_02.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_square.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_square_rounded.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_tilted_square.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_tilted_square_rounded.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\d9baf8238648055d2cc7267ff1b791fe\background_triangle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\b5c9b4696a9f27be2ccbe99bcf5c21cd\component_indoor.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Cross1.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Cross2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Cross4.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Cross5.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Cross6.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Star1.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Star2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1b3b54175b37ae6779ae8a839d58b65f\Star3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\4d78e47f5cf6f2af6be9d7dc432fbb21\amenity=fire_station.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\4d78e47f5cf6f2af6be9d7dc432fbb21\amenity=hospital.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\4d78e47f5cf6f2af6be9d7dc432fbb21\amenity=police.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=bar.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=cafe.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=cinema.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=fast_food.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=pub.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=restaurant.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\0ac74aa2065fc7b48e1e7737a5570798\amenity=theatre.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_bar.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_cafe.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_drinkingtap.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_fastfood.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_fastfood2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_pub.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\ebf8fc4ccc1aa499cb005152ca42a381\food_restaurant.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\anchor.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\bank.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\boat.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\camera.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\car.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\city_building.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\city_large.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\city_medium.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\city_small.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\conveneince.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\couple.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\cross.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\deer.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\dollar.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\fish.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\flag.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\food.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\gas.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\golf.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\h.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\house.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\parachute.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\parking.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\phone.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\plane.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\plane_orange.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\point.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\question.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\shipwreck.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\skier.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\skull.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\swimmer.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\table.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\teepee.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\tree.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\walker.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\928ea82884f408ba2362891dbdb546f7\waypoint.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_dentist.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_doctors.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_hospital.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_hospital_emergency.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_hospital_emergency2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_opticians.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_pharmacy.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\1a6eac35b0f24740ff158addb9bd8b07\health_veterinary.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\amenity=place_of_worship.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\amenity=school.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=buddhist.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=christian.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=hindu.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=jewish.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=muslim.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=pastafarian.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\religion=sikh.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\2bd71013c92751fc90e3fcd73999fd31\tourism=museum.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\deab2aa6dc51a9c72db7d27c720b948c\money_atm.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\deab2aa6dc51a9c72db7d27c720b948c\money_atm2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\deab2aa6dc51a9c72db7d27c720b948c\money_bank2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\deab2aa6dc51a9c72db7d27c720b948c\money_currency_exchange.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_bahai.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_bahai3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_buddhist.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_buddhist3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_christian.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_christian3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_hindu.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_hindu3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_islamic.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_islamic3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_jain.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_jain3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_jewish.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_jewish3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_pastafarian.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_shinto.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_shinto3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_sikh.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_sikh3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\29ee17ef9b2f5992da1d287eac1fc444\place_of_worship_unknown3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=atm.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=pharmacy,dispensing=yes.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=pharmacy.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=post_box.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=recycling.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\amenity=telephone.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\shop=convenience.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\shop=supermarket.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\7ba8181eb6aba07ff7ed97f875141fbb\tourism=hotel.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_alcohol.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_bakery.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_bicycle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_book.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_butcher.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_car.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_car_repair.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_clothes.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_confectionery.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_convenience.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_diy.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_estateagent.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_estateagent2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_fish.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_garden_centre.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_gift.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_greengrocer.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_hairdresser.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_hifi.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_jewelry.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_laundrette.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_mobile_phone.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_motorcycle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_music.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_pet.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_pet2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_photo.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_supermarket.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_tackle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\adc4297d39ba63b5973c8f5f0f7e0419\shopping_video_rental.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_archery.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_baseball.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_cricket.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_diving.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_golf.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_gym.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_gymnasium.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_gymnasium2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_hillclimbing.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_horse_racing.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_iceskating.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_jetski.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_leisure_centre.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_motorracing.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_playground.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_sailing.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_skiing_crosscountry.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_skiing_downhill.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_snooker.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_soccer.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_swimming_indoor.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_swimming_outdoor.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_tennis.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\20494eec135efae4ae805bbd04750b0c\sport_windsurfing.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\blue-marker.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\disability_accessibility.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\disability_accessibility2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\disability_lowvision.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\education_nursery.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\education_school.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\education_university.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\fountain.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_coniferous.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_coniferous_and_deciduous.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_deciduous.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_grass.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_hills.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_quary.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_scrub.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\landuse_swamp.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_boundary_administrative.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_cave.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_embassy.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_embassy2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_military_bunker.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_mine.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_mine_abandoned.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_peak.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_place_city.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_place_town.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_place_village.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_point_of_interest.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_tower_communications.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_tower_power.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\poi_tower_water.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\red-marker.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\c2448bf6ec5f7f16c11e3da229850252\water_tower.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_archaeological.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_archaeological2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_art_gallery.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_art_gallery2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_battlefield.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_beach.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_casino.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_castle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_cinema.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_cinema2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_fountain.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_memorial.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_monument.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_museum.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_picnic.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_ruin.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_steam_train.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_theatre.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_view_point.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_waterwheel.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_windmill.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_wreck.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourist_zoo.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\102340de27c06a8dad2389b8a632b147\tourisum_fountain.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\amenity=airport.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\amenity=ferry_terminal.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\amenity=parking.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\amenity=taxi.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_bollard.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_enterance.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_gate.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_lift_gate.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_stile.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\barrier_toll_booth.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\highway=bus_stop.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\railway=station.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_aerodrome.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_aerodrome2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_airport.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_airport2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_bus_station.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_bus_stop.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_bus_stop2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_car_share.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_ford.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_fuel.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_fuel_lpg.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_helicopter.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_lighthouse.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_marina.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_bicycle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_car.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_car_paid.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_disabled.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_private.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_private2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_parking_private3.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_port.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_rental_bicycle.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_rental_car.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_roundabout_anticlockwise.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_roundabout_clockwise.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_taxi_rank.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_traffic_lights.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_train_station.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_train_station2.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\9a9eb53ca46f9fff5b9fd8036c49fdbf\transport_tram_stop.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\dcb73f91c7530e52b252958d62ecd3d9\WindRose_01.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\dcb73f91c7530e52b252958d62ecd3d9\WindRose_02.svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\CMakeFiles\b8e0abea908114d2186378f69167abbd\svg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Workspace\qgis\qgis-pure\images\svg\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Workspace\qgis\qgis-pure\images\svg\CMakeFiles\svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A24967F-0AA2-33D4-BE86-FFCB99671CE9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

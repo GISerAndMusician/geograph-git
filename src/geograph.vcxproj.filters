@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Header Files\core">
+      <UniqueIdentifier>{b9f5e649-049e-47f7-b1e8-dd6bb74795de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\core">
+      <UniqueIdentifier>{45a06770-c7a0-457c-a581-b410daa81734}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\gui">
+      <UniqueIdentifier>{df40cfdb-614d-42ba-9e4f-3773d204680e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gui">
+      <UniqueIdentifier>{6201c6c6-7925-46a0-902f-9d9359cf18d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\algo">
+      <UniqueIdentifier>{c8d7725e-5a62-43c1-a6a5-7120e08c0236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\algo\FDEB">
+      <UniqueIdentifier>{6415afa8-bcc6-4358-b4e2-541384b5fe13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\algo\KDEEB">
+      <UniqueIdentifier>{22f3d1db-4882-47f3-845d-ec1a8bf7e786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\algo\MINGLE">
+      <UniqueIdentifier>{69659d67-bcfd-43f6-a9fd-fffc592b066b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo">
+      <UniqueIdentifier>{00c92426-d6b0-4280-b283-402cbec483ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\FDEB">
+      <UniqueIdentifier>{a9095176-72e1-48a4-b9f5-b4ec2b1b25ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\KDEEB">
+      <UniqueIdentifier>{6ad57700-0e09-40fa-be07-e247d0ce5cda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\MINGLE">
+      <UniqueIdentifier>{1a240e02-a4d3-4e92-b4d5-fa4dd721b7d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\algo\LWO">
+      <UniqueIdentifier>{003a73c9-f28b-42f8-be76-3427912ebf89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\algo\LWO">
+      <UniqueIdentifier>{66ab224e-8052-4623-8cdc-197889875a37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\process">
+      <UniqueIdentifier>{393e1ac9-c1fb-4d89-993f-438676f4a86b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\process">
+      <UniqueIdentifier>{80e3a203-cd5b-4380-b936-e51f19014f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\statistic">
+      <UniqueIdentifier>{cb80848f-9ce0-4888-bbe9-ff3afd580c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\statistic">
+      <UniqueIdentifier>{6ee90608-544f-4056-ba3a-e4490a8d4ffd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="gui\GgsGraphLegendWidget.h">
+      <Filter>Header Files\gui</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsCsvGraphImportDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsGraphMapToolSelect.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\LWO\GgsLwoInteraction.h">
+      <Filter>Header Files\algo\LWO</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsGraphMapToolSelectionHandler.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsLayerTreeViewMenuProvider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsMapThemes.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="core\GgsGraphProxy.h">
+      <Filter>Header Files\core</Filter>
+    </QtMoc>
+    <QtMoc Include="process\GgsBackboneDialog.h">
+      <Filter>Header Files\process</Filter>
+    </QtMoc>
+    <QtMoc Include="statistic\GgsGraphStatisticDialog.h">
+      <Filter>Header Files\statistic</Filter>
+    </QtMoc>
+    <QtMoc Include="process\GgsConvexHullDialog.h">
+      <Filter>Header Files\process</Filter>
+    </QtMoc>
+    <QtMoc Include="statistic\GgsSimilarityDialog.h">
+      <Filter>Header Files\statistic</Filter>
+    </QtMoc>
+    <QtMoc Include="GgsCsvGraphExportDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\LWO\GgsLwoInteractionWidget.h">
+      <Filter>Header Files\algo\LWO</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\MINGLEMathUtils.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\meerkat_logger.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\meerkat_vector2.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\GgsFdebWidget.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\GgsFdebGraph.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\GgsFdebEdge.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\KDEEB\GgsKdeebWidget.cpp">
+      <Filter>Source Files\algo\KDEEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\KDEEB\GgsKdeebBundler.cpp">
+      <Filter>Source Files\algo\KDEEB</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleWidget.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleRenderContext.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleNode.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleKdTree.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleGraph.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleEdge.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\MINGLE\GgsMingleBundler.cpp">
+      <Filter>Source Files\algo\MINGLE</Filter>
+    </ClCompile>
+    <ClCompile Include="gui\GgsGraphLegendWidget.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsCsvGraphImportDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsCsvParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsGraphLayerBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsGraphMapToolSelect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\LWO\GgsLwoInteraction.cpp">
+      <Filter>Source Files\algo\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsGraphMapToolSelectionHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsLayerTreeViewMenuProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsGraphMapToolSelectUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsMapThemes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="core\GgsNodeProxy.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="core\GgsGraphProxy.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="core\GgsGraphProject.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="core\GgsEdgeProxy.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="core\GgsBezierCurve.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\FDEB\GgsFdebNode.cpp">
+      <Filter>Source Files\algo\FDEB</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsAggregation.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsODDataImportDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsPython.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsClusterDialog.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsCluster.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="statistic\GgsGraphStatistic.cpp">
+      <Filter>Source Files\statistic</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsBackbone.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsKcoreDialog.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsEntropyWeight.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsBackboneDialog.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="statistic\GgsGraphStatisticDialog.cpp">
+      <Filter>Source Files\statistic</Filter>
+    </ClCompile>
+    <ClCompile Include="process\GgsConvexHullDialog.cpp">
+      <Filter>Source Files\process</Filter>
+    </ClCompile>
+    <ClCompile Include="statistic\GgsSimilarityDialog.cpp">
+      <Filter>Source Files\statistic</Filter>
+    </ClCompile>
+    <ClCompile Include="statistic\GgsGraphInfoAmount.cpp">
+      <Filter>Source Files\statistic</Filter>
+    </ClCompile>
+    <ClCompile Include="GgsCsvGraphExportDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="algo\LWO\GgsLwoInteractionWidget.cpp">
+      <Filter>Source Files\algo\LWO</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="images\images.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="GgsApp.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\FDEB\GgsFdebWidget.h">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\KDEEB\GgsKdeebWidget.h">
+      <Filter>Header Files\algo\KDEEB</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\KDEEB\GgsKdeebBundler.h">
+      <Filter>Header Files\algo\KDEEB</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\MINGLE\GgsMingleWidget.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </QtMoc>
+    <QtMoc Include="algo\MINGLE\GgsMingleBundler.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </QtMoc>
+    <QtMoc Include="core\GgsGraphProject.h">
+      <Filter>Header Files\core</Filter>
+    </QtMoc>
+    <QtMoc Include="process\GgsClusterDialog.h">
+      <Filter>Header Files\process</Filter>
+    </QtMoc>
+    <QtMoc Include="process\GgsKcoreDialog.h">
+      <Filter>Header Files\process</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algo\FDEB\meerkat_logger.hpp">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\FDEB\meerkat_vector2.hpp">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\FDEB\GgsFdebGraph.hpp">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\FDEB\GgsFdebEdge.hpp">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleRenderContext.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleNode.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleMathUtils.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleKdTree.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleGraph.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\MINGLE\GgsMingleEdge.h">
+      <Filter>Header Files\algo\MINGLE</Filter>
+    </ClInclude>
+    <ClInclude Include="GgsCsvParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GgsGraphLayerBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GgsGraphMapToolSelectUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="core\GgsNodeProxy.h">
+      <Filter>Header Files\core</Filter>
+    </ClInclude>
+    <ClInclude Include="core\GgsEdgeProxy.h">
+      <Filter>Header Files\core</Filter>
+    </ClInclude>
+    <ClInclude Include="core\GgsBezierCurve.h">
+      <Filter>Header Files\core</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\FDEB\GgsFdebNode.hpp">
+      <Filter>Header Files\algo\FDEB</Filter>
+    </ClInclude>
+    <ClInclude Include="process\GgsAggregation.h">
+      <Filter>Header Files\process</Filter>
+    </ClInclude>
+    <ClInclude Include="GgsODDataImportDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="process\GgsPython.h">
+      <Filter>Header Files\process</Filter>
+    </ClInclude>
+    <ClInclude Include="process\GgsCluster.h">
+      <Filter>Header Files\process</Filter>
+    </ClInclude>
+    <ClInclude Include="statistic\GgsGraphStatistic.h">
+      <Filter>Header Files\statistic</Filter>
+    </ClInclude>
+    <ClInclude Include="process\GgsBackbone.h">
+      <Filter>Header Files\process</Filter>
+    </ClInclude>
+    <ClInclude Include="process\GgsEntropyWeight.h">
+      <Filter>Header Files\process</Filter>
+    </ClInclude>
+    <ClInclude Include="statistic\GgsConvexHull.h">
+      <Filter>Header Files\algo</Filter>
+    </ClInclude>
+    <ClInclude Include="algo\Compute_Geometry.h">
+      <Filter>Header Files\algo</Filter>
+    </ClInclude>
+    <ClInclude Include="statistic\GgsGraphInfoAmount.h">
+      <Filter>Header Files\statistic</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="ui\GgsApp.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsBackboneDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsClusterDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsCsvGraphImportDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsFdebWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsGraphLegendWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsKcoreDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsKdeebWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsMingleWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsODDataDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsGraphStatisticDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsConvexHullDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsSimilarityDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsCsvGraphExportDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ui\GgsLwoInteractionWidget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+</Project>

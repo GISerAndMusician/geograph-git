@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GgsAppClass</class>
+ <widget class="QMainWindow" name="GgsAppClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>853</width>
+    <height>778</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>geograph</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../images/images.qrc">
+    <normaloff>:/graph/bundling/graphbundling.png</normaloff>:/graph/bundling/graphbundling.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>853</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>文件(&amp;F)</string>
+    </property>
+    <widget class="QMenu" name="menuAddLayer">
+     <property name="title">
+      <string>添加图层</string>
+     </property>
+     <addaction name="actionAddVectoLayer"/>
+     <addaction name="actionAddODLayer"/>
+    </widget>
+    <widget class="QMenu" name="menu_2">
+     <property name="title">
+      <string>导入图数据</string>
+     </property>
+     <addaction name="actionAddCSVGraphLayer"/>
+    </widget>
+    <widget class="QMenu" name="menu_4">
+     <property name="title">
+      <string>导出图数据</string>
+     </property>
+     <addaction name="actionExportGraphFile"/>
+     <addaction name="actionactionExportCSVGraphLayer"/>
+    </widget>
+    <addaction name="menuAddLayer"/>
+    <addaction name="separator"/>
+    <addaction name="menu_2"/>
+    <addaction name="menu_4"/>
+   </widget>
+   <widget class="QMenu" name="menu_V">
+    <property name="title">
+     <string>视图(&amp;V)</string>
+    </property>
+    <widget class="QMenu" name="menuPanel">
+     <property name="title">
+      <string>面板</string>
+     </property>
+     <addaction name="mActionStyleDock"/>
+    </widget>
+    <addaction name="menuPanel"/>
+    <addaction name="separator"/>
+    <addaction name="mActionPan"/>
+    <addaction name="mActionZoomIn"/>
+    <addaction name="mActionZoomOut"/>
+    <addaction name="mActionIdentify"/>
+    <addaction name="separator"/>
+    <addaction name="mActionSelectFeatures"/>
+    <addaction name="mActionSelectPolygon"/>
+    <addaction name="mActionSelectFreehand"/>
+    <addaction name="mActionSelectRadius"/>
+    <addaction name="separator"/>
+    <addaction name="actionSelectNode"/>
+    <addaction name="actionSelectEdge"/>
+    <addaction name="actionSelectNodeAndEdge"/>
+    <addaction name="actionSelectNodeAndAdjEdges"/>
+    <addaction name="separator"/>
+    <addaction name="actionClearSelection"/>
+   </widget>
+   <widget class="QMenu" name="menu_L">
+    <property name="title">
+     <string>图层(&amp;L)</string>
+    </property>
+    <addaction name="mActionShowAllLayers"/>
+    <addaction name="mActionHideAllLayers"/>
+    <addaction name="mActionShowSelectedLayers"/>
+    <addaction name="mActionHideSelectedLayers"/>
+    <addaction name="mActionToggleSelectedLayers"/>
+    <addaction name="mActionToggleSelectedLayersIndependently"/>
+    <addaction name="separator"/>
+    <addaction name="mActionRemoveLayer"/>
+    <addaction name="mActionHideDeselectedLayers"/>
+    <addaction name="separator"/>
+    <addaction name="actionRemoveGraphElements"/>
+   </widget>
+   <widget class="QMenu" name="menu_B">
+    <property name="title">
+     <string>捆绑(&amp;B)</string>
+    </property>
+    <addaction name="actionFDEB"/>
+    <addaction name="actionMINGLE"/>
+    <addaction name="actionKDEEB"/>
+   </widget>
+   <widget class="QMenu" name="menu_I">
+    <property name="title">
+     <string>交互(&amp;I)</string>
+    </property>
+    <addaction name="actionLocalWindow"/>
+    <addaction name="actionMoleView"/>
+   </widget>
+   <widget class="QMenu" name="menu_P">
+    <property name="title">
+     <string>处理(&amp;P)</string>
+    </property>
+    <addaction name="actionCluster"/>
+    <addaction name="actionKcore"/>
+    <addaction name="actionBackbone"/>
+    <addaction name="actionAggregation"/>
+    <addaction name="separator"/>
+    <addaction name="actionConvexHull"/>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>统计(&amp;S)</string>
+    </property>
+    <addaction name="actionGraphStatistic"/>
+    <addaction name="actionSimilarity"/>
+    <addaction name="actionInfoAmount"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_V"/>
+   <addaction name="menu_P"/>
+   <addaction name="menu_L"/>
+   <addaction name="menu_B"/>
+   <addaction name="menu_I"/>
+   <addaction name="menu_3"/>
+  </widget>
+  <widget class="QToolBar" name="FileToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionAddVectoLayer"/>
+   <addaction name="separator"/>
+   <addaction name="actionAddCSVGraphLayer"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <widget class="QToolBar" name="ViewToolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="mActionPan"/>
+   <addaction name="mActionZoomIn"/>
+   <addaction name="mActionZoomOut"/>
+   <addaction name="mActionIdentify"/>
+   <addaction name="separator"/>
+   <addaction name="mActionSelectFeatures"/>
+  </widget>
+  <widget class="QToolBar" name="LayersToolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="mActionShowAllLayers"/>
+   <addaction name="mActionHideAllLayers"/>
+   <addaction name="mActionShowSelectedLayers"/>
+   <addaction name="mActionHideSelectedLayers"/>
+   <addaction name="separator"/>
+   <addaction name="mActionRemoveLayer"/>
+  </widget>
+  <widget class="QToolBar" name="BundlingToolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionFDEB"/>
+   <addaction name="actionMINGLE"/>
+   <addaction name="actionKDEEB"/>
+  </widget>
+  <widget class="QToolBar" name="InteractionToolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionLocalWindow"/>
+   <addaction name="actionMoleView"/>
+  </widget>
+  <action name="actionAddVectoLayer">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionAddOgrLayer.svg</normaloff>:/qgis/themes/default/mActionAddOgrLayer.svg</iconset>
+   </property>
+   <property name="text">
+    <string>添加矢量图层</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+V</string>
+   </property>
+  </action>
+  <action name="mActionStyleDock">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>图层样式</string>
+   </property>
+  </action>
+  <action name="mActionZoomIn">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionZoomIn.svg</normaloff>:/qgis/themes/default/mActionZoomIn.svg</iconset>
+   </property>
+   <property name="text">
+    <string>放大</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Alt+I</string>
+   </property>
+  </action>
+  <action name="mActionZoomOut">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionZoomOut.svg</normaloff>:/qgis/themes/default/mActionZoomOut.svg</iconset>
+   </property>
+   <property name="text">
+    <string>缩小</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Alt+O</string>
+   </property>
+  </action>
+  <action name="mActionPan">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionPan.svg</normaloff>:/qgis/themes/default/mActionPan.svg</iconset>
+   </property>
+   <property name="text">
+    <string>平移</string>
+   </property>
+  </action>
+  <action name="mActionIdentify">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionIdentify.svg</normaloff>:/qgis/themes/default/mActionIdentify.svg</iconset>
+   </property>
+   <property name="text">
+    <string>identity</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+I</string>
+   </property>
+  </action>
+  <action name="mActionSelectFeatures">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionSelect.svg</normaloff>:/qgis/themes/default/mActionSelect.svg</iconset>
+   </property>
+   <property name="text">
+    <string>选择要素</string>
+   </property>
+  </action>
+  <action name="mActionSelectPolygon">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionSelectPolygon.svg</normaloff>:/qgis/themes/default/mActionSelectPolygon.svg</iconset>
+   </property>
+   <property name="text">
+    <string>按多边形选择要素</string>
+   </property>
+  </action>
+  <action name="mActionSelectFreehand">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionSelectFreehand.svg</normaloff>:/qgis/themes/default/mActionSelectFreehand.svg</iconset>
+   </property>
+   <property name="text">
+    <string>自由手绘选择要素</string>
+   </property>
+  </action>
+  <action name="mActionSelectRadius">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionSelectRadius.svg</normaloff>:/qgis/themes/default/mActionSelectRadius.svg</iconset>
+   </property>
+   <property name="text">
+    <string>按半径选择要素</string>
+   </property>
+  </action>
+  <action name="mActionRemoveLayer">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionRemoveLayer.svg</normaloff>:/qgis/themes/default/mActionRemoveLayer.svg</iconset>
+   </property>
+   <property name="text">
+    <string>移除图层/组</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+D</string>
+   </property>
+  </action>
+  <action name="mActionShowAllLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionShowAllLayers.svg</normaloff>:/qgis/themes/default/mActionShowAllLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>显示所有图层</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+U</string>
+   </property>
+  </action>
+  <action name="mActionHideAllLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionHideAllLayers.svg</normaloff>:/qgis/themes/default/mActionHideAllLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>隐藏所有图层</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Shift+H</string>
+   </property>
+  </action>
+  <action name="mActionShowSelectedLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionShowSelectedLayers.svg</normaloff>:/qgis/themes/default/mActionShowSelectedLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>显示选中的图层</string>
+   </property>
+  </action>
+  <action name="mActionHideSelectedLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionHideSelectedLayers.svg</normaloff>:/qgis/themes/default/mActionHideSelectedLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>隐藏选中的图层</string>
+   </property>
+  </action>
+  <action name="mActionToggleSelectedLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionToggleSelectedLayers.svg</normaloff>:/qgis/themes/default/mActionToggleSelectedLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>切换选中的图层</string>
+   </property>
+  </action>
+  <action name="mActionToggleSelectedLayersIndependently">
+   <property name="text">
+    <string>独立切换选中图层</string>
+   </property>
+  </action>
+  <action name="mActionHideDeselectedLayers">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionHideDeselectedLayers.svg</normaloff>:/qgis/themes/default/mActionHideDeselectedLayers.svg</iconset>
+   </property>
+   <property name="text">
+    <string>隐藏未选中的图层</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="text">
+    <string>sff...</string>
+   </property>
+  </action>
+  <action name="actionFDEB">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/FDEB.png</normaloff>:/graph/bundling/FDEB.png</iconset>
+   </property>
+   <property name="text">
+    <string>Force Directed Edge Bundling</string>
+   </property>
+  </action>
+  <action name="actionAddCSVGraphLayer">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/qgis/themes/default/mActionAddDelimitedTextLayer.svg</normaloff>:/qgis/themes/default/mActionAddDelimitedTextLayer.svg</iconset>
+   </property>
+   <property name="text">
+    <string>导入CSV格式图数据</string>
+   </property>
+  </action>
+  <action name="actionMINGLE">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/MINGLE.png</normaloff>:/graph/bundling/MINGLE.png</iconset>
+   </property>
+   <property name="text">
+    <string>Multilevel Agglomerative Edge Bundling</string>
+   </property>
+  </action>
+  <action name="actionKDEEB">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/KDEEB.png</normaloff>:/graph/bundling/KDEEB.png</iconset>
+   </property>
+   <property name="text">
+    <string>Kernel Density Estimation Edge Bundling</string>
+   </property>
+  </action>
+  <action name="actionLocalWindow">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/LWO.png</normaloff>:/graph/bundling/LWO.png</iconset>
+   </property>
+   <property name="text">
+    <string>Local Window Open</string>
+   </property>
+  </action>
+  <action name="actionMoleView">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/MoleView.png</normaloff>:/graph/bundling/MoleView.png</iconset>
+   </property>
+   <property name="text">
+    <string>Mole View Open</string>
+   </property>
+  </action>
+  <action name="actionAggregation">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/aggregation.png</normaloff>:/graph/bundling/aggregation.png</iconset>
+   </property>
+   <property name="text">
+    <string>聚合</string>
+   </property>
+  </action>
+  <action name="actionAddODLayer">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/ODData.png</normaloff>:/graph/bundling/ODData.png</iconset>
+   </property>
+   <property name="text">
+    <string>添加OD数据图层</string>
+   </property>
+  </action>
+  <action name="actionCluster">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/cluster.png</normaloff>:/graph/bundling/cluster.png</iconset>
+   </property>
+   <property name="text">
+    <string>聚类</string>
+   </property>
+  </action>
+  <action name="actionGraphStatistic">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/degreeDistribution.png</normaloff>:/graph/bundling/degreeDistribution.png</iconset>
+   </property>
+   <property name="text">
+    <string>复杂网络指标统计</string>
+   </property>
+  </action>
+  <action name="actionBackbone">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/backboneExtraction.png</normaloff>:/graph/bundling/backboneExtraction.png</iconset>
+   </property>
+   <property name="text">
+    <string>网络骨架提取</string>
+   </property>
+  </action>
+  <action name="actionSelectNode">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/selectnodes.png</normaloff>:/graph/bundling/selectnodes.png</iconset>
+   </property>
+   <property name="text">
+    <string>选择节点</string>
+   </property>
+  </action>
+  <action name="actionSelectNodeAndAdjEdges">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/selectnodeandadjedge.png</normaloff>:/graph/bundling/selectnodeandadjedge.png</iconset>
+   </property>
+   <property name="text">
+    <string>选择节点及其邻接连边</string>
+   </property>
+  </action>
+  <action name="actionSelectEdge">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/selectedges.png</normaloff>:/graph/bundling/selectedges.png</iconset>
+   </property>
+   <property name="text">
+    <string>选择连边</string>
+   </property>
+  </action>
+  <action name="actionRemoveGraphElements">
+   <property name="text">
+    <string>删除选中的图元素</string>
+   </property>
+  </action>
+  <action name="actionSelectNodeAndEdge">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/selectnodeandedge.png</normaloff>:/graph/bundling/selectnodeandedge.png</iconset>
+   </property>
+   <property name="text">
+    <string>选择节点和连边</string>
+   </property>
+  </action>
+  <action name="actionClearSelection">
+   <property name="text">
+    <string>清除所有选择</string>
+   </property>
+  </action>
+  <action name="actionExportGraphFile">
+   <property name="text">
+    <string>导出成图文件格式</string>
+   </property>
+  </action>
+  <action name="actionKcore">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/kcore.png</normaloff>:/graph/bundling/kcore.png</iconset>
+   </property>
+   <property name="text">
+    <string>K核分解</string>
+   </property>
+  </action>
+  <action name="actionConvexHull">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/convexHull.png</normaloff>:/graph/bundling/convexHull.png</iconset>
+   </property>
+   <property name="text">
+    <string>点群凸包计算</string>
+   </property>
+  </action>
+  <action name="actionSimilarity">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/similarity.png</normaloff>:/graph/bundling/similarity.png</iconset>
+   </property>
+   <property name="text">
+    <string>相似度计算</string>
+   </property>
+  </action>
+  <action name="actionInfoAmount">
+   <property name="icon">
+    <iconset resource="../images/images.qrc">
+     <normaloff>:/graph/bundling/infoamount.png</normaloff>:/graph/bundling/infoamount.png</iconset>
+   </property>
+   <property name="text">
+    <string>图信息量计算</string>
+   </property>
+  </action>
+  <action name="actionactionExportCSVGraphLayer">
+   <property name="text">
+    <string>导出CSV格式图文件</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="../images/images.qrc"/>
+ </resources>
+ <connections/>
+</ui>
